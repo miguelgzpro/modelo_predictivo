@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Todos los Estudiantes</title>
+    <a href="/riesgo">Ver Estudiantes en Riesgo</a>
+
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>Todos los Estudiantes</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Sexo</th>
+            <th>Edad</th>
+            <th>Promedio</th>
+            <th>Actividades Extracurriculares</th>
+            <th>Comunicación con Profesores</th>
+            <th>Apoyo Académico</th>
+            <th>Participación en Tutorías</th>
+            <th>Nivel Socioeconómico</th>
+            <th>Retención</th>
+            <th>Predicción</th>
+            <th>Razón de Riesgo</th>
+        </tr>
+        {% for estudiante in estudiantes %}
+        <tr>
+            <td>{{ estudiante.ID }}</td>
+            <td>{{ estudiante.Sexo }}</td>
+            <td>{{ estudiante.Edad }}</td>
+            <td>{{ estudiante.Promedio }}</td>
+            <td>{{ estudiante.ActividadesExtracurriculares }}</td>
+            <td>{{ estudiante.ComunicacionProfesores }}</td>
+            <td>{{ estudiante.ApoyoAcademico }}</td>
+            <td>{{ estudiante.ParticipacionTutorias }}</td>
+            <td>{{ estudiante.NivelSocioeconomico }}</td>
+            <td>{{ estudiante.Retencion }}</td>
+            <td>{{ estudiante.Prediccion }}</td>
+            <td>{{ estudiante.RazonDeRiesgo }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <br>
+</body>
+</html>

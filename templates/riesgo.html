@@ -3,43 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <title>Estudiantes en Riesgo</title>
-    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        .en-peligro {
+            background-color: lightcoral;
+        }
+        .button {
+            background-color: #D3D3D3; /* Light gray color */
+            border: none;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+    </style>
 </head>
 <body>
     <h1>Estudiantes en Riesgo</h1>
+    <a href="{{ url_for('index') }}" class="button">Volver</a>
     <table>
-        <tr>
-            <th>ID</th>
-            <th>Sexo</th>
-            <th>Edad</th>
-            <th>Promedio</th>
-            <th>Actividades Extracurriculares</th>
-            <th>Comunicación con Profesores</th>
-            <th>Apoyo Académico</th>
-            <th>Participación en Tutorías</th>
-            <th>Nivel Socioeconómico</th>
-            <th>Retención</th>
-            <th>Predicción</th>
-            <th>Razón de Riesgo</th>
-        </tr>
-        {% for estudiante in estudiantes %}
-        <tr>
-            <td>{{ estudiante.ID }}</td>
-            <td>{{ estudiante.Sexo }}</td>
-            <td>{{ estudiante.Edad }}</td>
-            <td>{{ estudiante.Promedio }}</td>
-            <td>{{ estudiante.ActividadesExtracurriculares }}</td>
-            <td>{{ estudiante.ComunicacionProfesores }}</td>
-            <td>{{ estudiante.ApoyoAcademico }}</td>
-            <td>{{ estudiante.ParticipacionTutorias }}</td>
-            <td>{{ estudiante.NivelSocioeconomico }}</td>
-            <td>{{ estudiante.Retencion }}</td>
-            <td>{{ estudiante.Prediccion }}</td>
-            <td>{{ estudiante.RazonDeRiesgo }}</td>
-        </tr>
-        {% endfor %}
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Sexo</th>
+                <th>Edad</th>
+                <th>Promedio</th>
+                <th>Retención</th>
+                <th>Predicción</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for estudiante in estudiantes %}
+                <tr>
+                    <td>{{ estudiante.ID }}</td>
+                    <td>{{ estudiante.Sexo }}</td>
+                    <td>{{ estudiante.Edad }}</td>
+                    <td>{{ estudiante.Promedio }}</td>
+                    <td class="en-peligro">{{ estudiante.Retencion }}</td>
+                    <td>{{ estudiante.Prediccion }}</td>
+                    <td><a href="{{ url_for('detalle', id=estudiante.ID) }}">Ver detalles</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
     </table>
-    <br>
-    <a href="/">Ver Todos los Estudiantes</a>
 </body>
 </html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalle Estudiante</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .cerrar {
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Detalle del Estudiante</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Campo</th>
+                <th>Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ID</td>
+                <td>{{ estudiante['ID'] }}</td>
+            </tr>
+            <tr>
+                <td>Sexo</td>
+                <td>{{ estudiante['Sexo'] }}</td>
+            </tr>
+            <tr>
+                <td>Edad</td>
+                <td>{{ estudiante['Edad'] }}</td>
+            </tr>
+            <tr>
+                <td>Promedio</td>
+                <td>{{ estudiante['Promedio'] }}</td>
+            </tr>
+            <tr>
+                <td>Actividades Extracurriculares</td>
+                <td>{{ 'Sí' if estudiante['ActividadesExtracurriculares'] == 1 else 'No' }}</td>
+            </tr>
+            <tr>
+                <td>Comunicación con Profesores</td>
+                <td>
+                    {% if estudiante['ComunicacionProfesores'] == 2 %}Bueno
+                    {% elif estudiante['ComunicacionProfesores'] == 1 %}Regular
+                    {% else %}Ninguno
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>Apoyo Académico</td>
+                <td>
+                    {% if estudiante['ApoyoAcademico'] == 1 %}Bueno
+                    {% else %}Regular
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>Participación en Tutorías</td>
+                <td>{{ 'Sí' if estudiante['ParticipacionTutorias'] == 1 else 'No' }}</td>
+            </tr>
+            <tr>
+                <td>Nivel Socioeconómico</td>
+                <td>
+                    {% if estudiante['NivelSocioeconomico'] == 2 %}Bueno
+                    {% elif estudiante['NivelSocioeconomico'] == 1 %}Medio
+                    {% else %}Ninguno
+                    {% endif %}
+                </td>
+            </tr>
+            <tr>
+                <td>Razón de Riesgo</td>
+                <td>{{ estudiante['RazonDeRiesgo'] }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <a href="{{ url_for('index') }}" class="cerrar">Volver</a>
+</body>
+</html>

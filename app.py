@@ -1,8 +1,8 @@
-from flask import Flask, render_template # type: ignore
-import pandas as pd# type: ignore
-from sklearn.model_selection import train_test_split# type: ignore
-from sklearn.linear_model import LogisticRegression# type: ignore
-from imblearn.over_sampling import SMOTE# type: ignore
+from flask import Flask, render_template
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from imblearn.over_sampling import SMOTE
 
 app = Flask(__name__)
 
@@ -33,35 +33,68 @@ modelo = LogisticRegression()
 modelo.fit(X_train, y_train)
 
 # Realizar predicciones
-datos['Prediccion'] = modelo.predict(X)
+datos['ProbabilidadPeligro'] = modelo.predict_proba(X)[:, 1]
 
-# Función para determinar la razón del riesgo
+# Aplicar las reglas de retención y predicción
+datos['Retencion'] = datos.apply(
+    lambda row: 'No está en riesgo' if row['Promedio'] > 7 else 'En Peligro' if row['Retencion'] == 0 else 'Retenido',
+    axis=1
+)
+datos['Prediccion'] = datos.apply(
+    lambda row: "-" if row['Retencion'] == 'Retenido' else f"{row['ProbabilidadPeligro'] * 100:.2f}%" if row['Promedio'] <= 7 else "-",
+    axis=1
+)
+
+# Determinar razón de riesgo
 def razon_de_riesgo(fila):
     razones = []
-    if fila['Promedio'] < 6:
-        razones.append('Promedio bajo')
-    if fila['ComunicacionProfesores'] == 0:
-        razones.append('Mala comunicación con profesores')
-    if fila['ApoyoAcademico'] == 0:
-        razones.append('Falta de apoyo académico')
-    if fila['ParticipacionTutorias'] == 0:
-        razones.append('No participa en tutorías')
-    if fila['NivelSocioeconomico'] == 0:
-        razones.append('Nivel socioeconómico bajo')
+    if fila['Promedio'] <= 7:
+        if fila['Promedio'] < 6:
+            razones.append('Promedio bajo')
+        if fila['ComunicacionProfesores'] == 0:
+            razones.append('Mala comunicación con profesores')
+        if fila['ApoyoAcademico'] == 0:
+            razones.append('Falta de apoyo académico')
+        if fila['ParticipacionTutorias'] == 0:
+            razones.append('No participa en tutorías')
+        if fila['NivelSocioeconomico'] == 0:
+            razones.append('Nivel socioeconómico bajo')
     return ', '.join(razones) if razones else 'N/A'
 
 # Aplicar la función a los datos
 datos['RazonDeRiesgo'] = datos.apply(razon_de_riesgo, axis=1)
 
+# Mapeo para la visualización de datos
+sexo_map = {1: 'Masculino', 0: 'Femenino'}
+actividades_map = {1: 'Sí', 0: 'No'}
+comunicacion_map = {2: 'Bueno', 1: 'Medio', 0: 'Ninguno'}
+apoyo_map = {1: 'Bueno', 0: 'Regular'}
+participacion_map = {1: 'Sí', 0: 'No'}
+nivel_map = {2: 'Bueno', 1: 'Medio', 0: 'Ninguno'}
+
 @app.route('/')
 def index():
-    estudiantes = datos.to_dict(orient='records')
-    return render_template('index.html', estudiantes=estudiantes)
+    estudiantes = datos[['ID', 'Sexo', 'Edad', 'Promedio', 'Retencion', 'Prediccion']].copy()
+    estudiantes['Sexo'] = estudiantes['Sexo'].map(sexo_map)
+    return render_template('index.html', estudiantes=estudiantes.to_dict(orient='records'))
+
+@app.route('/detalle/<int:id>')
+def detalle(id):
+    estudiante = datos[datos['ID'] == id].to_dict(orient='records')[0]
+    estudiante['Sexo'] = sexo_map[estudiante['Sexo']]
+    estudiante['ActividadesExtracurriculares'] = actividades_map[estudiante['ActividadesExtracurriculares']]
+    estudiante['ComunicacionProfesores'] = comunicacion_map[estudiante['ComunicacionProfesores']]
+    estudiante['ApoyoAcademico'] = apoyo_map[estudiante['ApoyoAcademico']]
+    estudiante['ParticipacionTutorias'] = participacion_map[estudiante['ParticipacionTutorias']]
+    estudiante['NivelSocioeconomico'] = nivel_map[estudiante['NivelSocioeconomico']]
+    return render_template('detalle.html', estudiante=estudiante)
 
 @app.route('/riesgo')
 def riesgo():
-    estudiantes_riesgo = datos[datos['Prediccion'] == 0].to_dict(orient='records')
-    return render_template('riesgo.html', estudiantes=estudiantes_riesgo)
+    en_riesgo = datos[datos['Retencion'] == 'En Peligro'][['ID', 'Sexo', 'Edad', 'Promedio', 'Retencion', 'Prediccion']].copy()
+    en_riesgo['Sexo'] = en_riesgo['Sexo'].map(sexo_map)
+    en_riesgo['Accion'] = 'Ver detalles'
+    return render_template('riesgo.html', estudiantes=en_riesgo.to_dict(orient='records'))
 
 if __name__ == '__main__':
     app.run(debug=True)

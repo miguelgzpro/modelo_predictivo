@@ -2,97 +2,99 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Detalle Estudiante</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle del Estudiante</title>
     <style>
         table {
             width: 100%;
             border-collapse: collapse;
+            font-family: Arial, sans-serif;
         }
         th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
+            border: 1px solid #ddd;
             padding: 8px;
+            text-align: left;
         }
         th {
-            background-color: #f2f2f2;
+            background-color: #f4f4f4;
         }
-        .cerrar {
-            margin-top: 20px;
-            padding: 10px 15px;
-            background-color: #007bff;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
+        .reason {
+            white-space: pre-line; /* Respects line breaks */
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        a {
             display: inline-block;
+            margin-bottom: 10px;
+            padding: 8px 12px;
+            color: #fff;
+            background-color: #6c757d;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        a:hover {
+            background-color: #5a6268;
         }
     </style>
 </head>
 <body>
     <h1>Detalle del Estudiante</h1>
+    <a href="/">Volver</a>
     <table>
-        <thead>
-            <tr>
-                <th>Campo</th>
-                <th>Valor</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>ID</td>
-                <td>{{ estudiante['ID'] }}</td>
-            </tr>
-            <tr>
-                <td>Sexo</td>
-                <td>{{ estudiante['Sexo'] }}</td>
-            </tr>
-            <tr>
-                <td>Edad</td>
-                <td>{{ estudiante['Edad'] }}</td>
-            </tr>
-            <tr>
-                <td>Promedio</td>
-                <td>{{ estudiante['Promedio'] }}</td>
-            </tr>
-            <tr>
-                <td>Actividades Extracurriculares</td>
-                <td>{{ 'Sí' if estudiante['ActividadesExtracurriculares'] == 1 else 'No' }}</td>
-            </tr>
-            <tr>
-                <td>Comunicación con Profesores</td>
-                <td>
-                    {% if estudiante['ComunicacionProfesores'] == 2 %}Bueno
-                    {% elif estudiante['ComunicacionProfesores'] == 1 %}Regular
-                    {% else %}Ninguno
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td>Apoyo Académico</td>
-                <td>
-                    {% if estudiante['ApoyoAcademico'] == 1 %}Bueno
-                    {% else %}Regular
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td>Participación en Tutorías</td>
-                <td>{{ 'Sí' if estudiante['ParticipacionTutorias'] == 1 else 'No' }}</td>
-            </tr>
-            <tr>
-                <td>Nivel Socioeconómico</td>
-                <td>
-                    {% if estudiante['NivelSocioeconomico'] == 2 %}Bueno
-                    {% elif estudiante['NivelSocioeconomico'] == 1 %}Medio
-                    {% else %}Ninguno
-                    {% endif %}
-                </td>
-            </tr>
-            <tr>
-                <td>Razón de Riesgo</td>
-                <td>{{ estudiante['RazonDeRiesgo'] }}</td>
-            </tr>
-        </tbody>
+        <tr>
+            <th>Campo</th>
+            <th>Valor</th>
+        </tr>
+        <tr>
+            <td>ID</td>
+            <td>{{ estudiante['ID'] }}</td>
+        </tr>
+        <tr>
+            <td>Sexo</td>
+            <td>{{ estudiante['Sexo'] }}</td>
+        </tr>
+        <tr>
+            <td>Edad</td>
+            <td>{{ estudiante['Edad'] }}</td>
+        </tr>
+        <tr>
+            <td>Promedio</td>
+            <td>{{ estudiante['Promedio'] }}</td>
+        </tr>
+        <tr>
+            <td>Actividades Extracurriculares</td>
+            <td>{{ estudiante['ActividadesExtracurriculares'] }}</td>
+        </tr>
+        <tr>
+            <td>Comunicación con Profesores</td>
+            <td>{{ estudiante['ComunicacionProfesores'] }}</td>
+        </tr>
+        <tr>
+            <td>Apoyo Académico</td>
+            <td>{{ estudiante['ApoyoAcademico'] }}</td>
+        </tr>
+        <tr>
+            <td>Participación en Tutorías</td>
+            <td>{{ estudiante['ParticipacionTutorias'] }}</td>
+        </tr>
+        <tr>
+            <td>Nivel Socioeconómico</td>
+            <td>{{ estudiante['NivelSocioeconomico'] }}</td>
+        </tr>
+        <tr>
+            <td>Retención</td>
+            <td>{{ estudiante['Retencion'] }}</td>
+        </tr>
+        <tr>
+            <td>Predicción</td>
+            <td>{{ estudiante['Prediccion'] }}</td>
+        </tr>
+        <tr>
+            <td>Razón de Riesgo</td>
+            <td class="reason">{{ estudiante['RazonDeRiesgo']|safe }}</td>
+        </tr>
     </table>
-    <a href="{{ url_for('index') }}" class="cerrar">Volver</a>
 </body>
 </html>

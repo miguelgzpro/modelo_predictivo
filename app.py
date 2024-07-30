@@ -30,10 +30,6 @@ datos = preprocesar_datos(datos)
 
 # Mapeo para la visualización de datos
 sexo_map = {1: 'Masculino', 0: 'Femenino'}
-comunicacion_map = {2: 'Bueno', 1: 'Medio', 0: 'Ninguno'}
-apoyo_map = {1: 'Bueno', 0: 'Regular'}
-participacion_map = {1: 'Sí', 0: 'No'}
-nivel_map = {2: 'Bueno', 1: 'Medio', 0: 'Ninguno'}
 
 @app.route('/')
 def index():
@@ -45,11 +41,6 @@ def index():
 def detalle(id):
     estudiante = datos[datos['ID'] == id].to_dict(orient='records')[0]
     estudiante['Sexo'] = sexo_map[estudiante['Sexo']]
-    estudiante['ActividadesExtracurriculares'] = 'Sí' if estudiante['ActividadesExtracurriculares'] == 1 else 'No'
-    estudiante['ComunicacionProfesores'] = comunicacion_map[estudiante['ComunicacionProfesores']]
-    estudiante['ApoyoAcademico'] = apoyo_map[estudiante['ApoyoAcademico']]
-    estudiante['ParticipacionTutorias'] = participacion_map[estudiante['ParticipacionTutorias']]
-    estudiante['NivelSocioeconomico'] = nivel_map[estudiante['NivelSocioeconomico']]
     return render_template('detalle.html', estudiante=estudiante)
 
 @app.route('/riesgo')

@@ -18,6 +18,7 @@ def entrenar_modelo(datos):
     # Entrenar el modelo
     modelo = LogisticRegression()
     modelo.fit(X_train, y_train)
+    # verificar la valided del modelo x_test y_test salga por consola el valor ------ retencion los valores cambian a (0)abandono o  (1)no abandona ------- prediccion poner si esta en peligro ------ retenido
 
     # Realizar predicciones
     datos['ProbabilidadPeligro'] = modelo.predict_proba(X)[:, 1]

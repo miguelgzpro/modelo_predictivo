@@ -42,4 +42,4 @@ def generar_valor_normal(lim_inferior, lim_superior, forzar_limites=False):
     return valor
 
 # Ejemplo de uso
-generar_csv_aleatorio('datos_aleatorios.csv', 100)  # Genera un archivo con 200 filas
+generar_csv_aleatorio('datos_aleatorios.csv', 1000)  # Genera un archivo con 1000 filas

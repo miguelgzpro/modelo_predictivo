@@ -11,6 +11,18 @@ Datos generales del estudiante gnerados por csv son 1000 datos
 Visualizacion de esos datos
 <img width="899" alt="image" src="https://github.com/user-attachments/assets/cb9f9fc3-58b9-43d3-b727-fc53ae5f925b">
 
+App.py manejo de smote 
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/f87c9429-ae4c-48df-8991-b30bde198228">
+
+Model.py practicamente el modelo predictivo que ayuda a la retencion
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/dcc93f4c-cd51-4626-a3b4-29f24145014b">
+
+Generacion de datos.py
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/91979826-1b38-459a-af7b-a22711420b00">
+
+
+
+
 
 
 

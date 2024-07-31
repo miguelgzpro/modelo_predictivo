@@ -2,11 +2,24 @@ import pandas as pd  # type: ignore
 from sklearn.model_selection import train_test_split  # type: ignore
 from sklearn.linear_model import LogisticRegression  # type: ignore
 from imblearn.over_sampling import SMOTE  # type: ignore
+from sklearn.preprocessing import LabelEncoder  # type: ignore
 
 def entrenar_modelo(datos):
     # Preprocesamiento de datos
-    X = datos.drop(['ID', 'Retencion'], axis=1)
-    y = datos['Retencion']
+    datos_preprocesados = datos.copy()
+
+    # Convertir columnas categóricas a numéricas
+    le = LabelEncoder()
+    datos_preprocesados['Sexo'] = le.fit_transform(datos_preprocesados['Sexo'])
+    datos_preprocesados['ActividadesExtracurriculares'] = le.fit_transform(datos_preprocesados['ActividadesExtracurriculares'])
+    datos_preprocesados['ComunicacionProfesores'] = le.fit_transform(datos_preprocesados['ComunicacionProfesores'])
+    datos_preprocesados['ApoyoAcademico'] = le.fit_transform(datos_preprocesados['ApoyoAcademico'])
+    datos_preprocesados['ParticipacionTutorias'] = le.fit_transform(datos_preprocesados['ParticipacionTutorias'])
+    datos_preprocesados['NivelSocioeconomico'] = le.fit_transform(datos_preprocesados['NivelSocioeconomico'])
+    
+    # Definir variables independientes y dependientes
+    X = datos_preprocesados.drop(['ID', 'Retencion'], axis=1)
+    y = datos_preprocesados['Retencion']
 
     # Aplicar SMOTE para manejar el desbalanceo de clases
     smote = SMOTE(random_state=42)
@@ -18,17 +31,16 @@ def entrenar_modelo(datos):
     # Entrenar el modelo
     modelo = LogisticRegression()
     modelo.fit(X_train, y_train)
-    # verificar la valided del modelo x_test y_test salga por consola el valor ------ retencion los valores cambian a (0)abandono o  (1)no abandona ------- prediccion poner si esta en peligro ------ retenido
 
     # Realizar predicciones
-    datos['ProbabilidadPeligro'] = modelo.predict_proba(X)[:, 1]
-    datos['Retencion'] = datos['Retencion'].map({1: 'Retenido', 0: 'En Peligro'})
-    datos['Prediccion'] = datos.apply(
+    datos_preprocesados['ProbabilidadPeligro'] = modelo.predict_proba(X)[:, 1]
+    datos_preprocesados['Retencion'] = datos_preprocesados['Retencion'].map({1: 'Retenido', 0: 'En Peligro'})
+    datos_preprocesados['Prediccion'] = datos_preprocesados.apply(
         lambda row: f"{row['ProbabilidadPeligro'] * 100:.2f}%" if row['Retencion'] == 'En Peligro' else "-",
         axis=1
     )
 
-    return modelo, datos
+    return modelo, datos_preprocesados
 
 def razon_de_riesgo(fila):
     razones = []

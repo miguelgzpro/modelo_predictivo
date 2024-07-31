@@ -1,6 +1,6 @@
 import random
 import csv
-import numpy as np # type: ignore
+import numpy as np  # type: ignore
 
 sexo = ['M', 'F']
 sexo_probabilidad = [0.6, 0.4]
@@ -10,7 +10,7 @@ def generar_csv_aleatorio(nombre_archivo, num_filas):
         escritor_csv = csv.writer(archivo_csv)
         escritor_csv.writerow(['ID', 'Sexo', 'Edad', 'Promedio', 'ActividadesExtracurriculares',
                                'ComunicacionProfesores', 'ApoyoAcademico', 'ParticipacionTutorias',
-                               'NivelSocioeconomico', 'Retencion'])  # Encabezado
+                               'NivelSocioeconomico'])  # Encabezado sin 'Retencion'
 
         for i in range(num_filas):
             id = i + 1  # Asigna un ID único para cada fila
@@ -22,10 +22,9 @@ def generar_csv_aleatorio(nombre_archivo, num_filas):
             apoyo = random.choice(['Bueno', 'Regular'])
             tutoria = random.choice(['Si', 'No'])
             socioeconomico = random.choice(['Bueno', 'Medio', 'Ninguno'])
-            retencion = random.choice([1, 0])  # 1 para retenido, 0 para no retenido
             
             escritor_csv.writerow([id, sex, age, promedio, actividades, comunicacion, apoyo,
-                                   tutoria, socioeconomico, retencion])
+                                   tutoria, socioeconomico])
 
 def generar_valor_normal(lim_inferior, lim_superior, forzar_limites=False):
     media = (lim_inferior + lim_superior) / 2

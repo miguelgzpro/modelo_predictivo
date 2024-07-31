@@ -1,1001 +1,1001 @@
-ID,Sexo,Edad,Promedio,ActividadesExtracurriculares,ComunicacionProfesores,ApoyoAcademico,ParticipacionTutorias,NivelSocioeconomico
-1,F,20,7.0,Si,Ninguno,Regular,Si,Medio
-2,M,22,1.9,Si,Bueno,Bueno,No,Ninguno
-3,F,23,1.3,Si,Ninguno,Bueno,No,Medio
-4,M,22,4.0,No,Ninguno,Bueno,No,Ninguno
-5,F,22,7.1,No,Medio,Regular,No,Bueno
-6,M,22,8.8,Si,Medio,Bueno,No,Ninguno
-7,M,20,7.2,Si,Bueno,Regular,Si,Medio
-8,F,23,2.0,No,Bueno,Regular,No,Ninguno
-9,M,21,2.2,Si,Medio,Bueno,No,Ninguno
-10,F,20,5.7,No,Ninguno,Bueno,No,Bueno
-11,F,21,5.1,Si,Bueno,Bueno,No,Ninguno
-12,F,22,4.0,Si,Ninguno,Regular,No,Medio
-13,M,24,4.8,Si,Ninguno,Bueno,Si,Bueno
-14,M,18,4.9,No,Medio,Regular,No,Bueno
-15,M,22,5.2,No,Ninguno,Regular,No,Ninguno
-16,F,22,4.7,No,Ninguno,Regular,No,Bueno
-17,M,23,7.6,No,Ninguno,Regular,Si,Ninguno
-18,M,20,9.8,Si,Bueno,Bueno,No,Ninguno
-19,M,23,4.7,No,Medio,Bueno,No,Medio
-20,M,21,4.4,No,Medio,Bueno,Si,Ninguno
-21,M,21,2.1,Si,Bueno,Bueno,Si,Medio
-22,F,23,7.1,Si,Ninguno,Bueno,No,Ninguno
-23,F,20,4.0,No,Ninguno,Regular,Si,Bueno
-24,F,20,0.9,Si,Medio,Bueno,Si,Medio
-25,M,22,3.5,Si,Ninguno,Bueno,No,Bueno
-26,F,22,5.4,No,Bueno,Regular,No,Bueno
-27,M,21,4.4,No,Ninguno,Regular,Si,Medio
-28,F,19,3.5,No,Bueno,Regular,No,Medio
-29,M,23,1.3,No,Ninguno,Regular,Si,Medio
-30,F,20,4.7,Si,Medio,Regular,Si,Ninguno
-31,F,23,9.1,Si,Medio,Bueno,Si,Ninguno
-32,M,22,5.7,No,Bueno,Bueno,No,Ninguno
-33,M,23,1.2,Si,Medio,Bueno,Si,Bueno
-34,F,20,4.3,Si,Medio,Regular,No,Bueno
-35,M,19,4.1,Si,Bueno,Regular,Si,Ninguno
-36,M,20,2.8,No,Bueno,Regular,No,Medio
-37,F,22,8.3,No,Bueno,Regular,No,Ninguno
-38,M,22,1.0,Si,Medio,Bueno,No,Medio
-39,M,21,1.5,No,Bueno,Regular,No,Medio
-40,M,24,5.2,Si,Medio,Bueno,No,Medio
-41,F,23,8.3,No,Ninguno,Regular,Si,Ninguno
-42,F,21,8.2,Si,Medio,Regular,Si,Ninguno
-43,F,20,5.3,No,Bueno,Bueno,Si,Medio
-44,M,21,1.7,No,Ninguno,Regular,Si,Bueno
-45,M,20,5.1,No,Ninguno,Bueno,No,Bueno
-46,F,21,5.9,Si,Medio,Regular,Si,Ninguno
-47,M,20,6.2,No,Ninguno,Bueno,Si,Ninguno
-48,M,22,7.5,No,Bueno,Regular,No,Bueno
-49,F,22,5.0,Si,Bueno,Regular,No,Bueno
-50,F,21,5.9,No,Medio,Regular,Si,Ninguno
-51,M,21,0.8,Si,Bueno,Bueno,No,Medio
-52,F,22,7.8,Si,Medio,Regular,Si,Bueno
-53,M,20,7.0,Si,Medio,Bueno,No,Ninguno
-54,M,23,0.3,No,Medio,Bueno,Si,Ninguno
-55,F,21,5.5,Si,Medio,Bueno,No,Ninguno
-56,F,22,8.6,Si,Ninguno,Bueno,No,Ninguno
-57,F,22,8.6,No,Ninguno,Bueno,Si,Medio
-58,M,20,3.7,No,Ninguno,Regular,No,Medio
-59,M,21,4.8,Si,Medio,Regular,No,Medio
-60,M,23,8.2,No,Bueno,Regular,No,Medio
-61,F,21,1.0,No,Medio,Bueno,No,Medio
-62,M,23,8.7,Si,Ninguno,Bueno,No,Medio
-63,M,22,1.7,Si,Ninguno,Bueno,No,Bueno
-64,M,21,6.7,Si,Ninguno,Bueno,Si,Ninguno
-65,M,22,0.4,No,Ninguno,Bueno,No,Medio
-66,M,24,3.1,No,Ninguno,Bueno,No,Ninguno
-67,F,23,6.5,No,Medio,Regular,Si,Medio
-68,M,22,6.5,No,Medio,Bueno,No,Ninguno
-69,M,24,7.2,No,Ninguno,Bueno,No,Bueno
-70,F,21,5.7,Si,Medio,Regular,Si,Ninguno
-71,M,21,5.6,Si,Medio,Bueno,No,Medio
-72,M,21,5.4,Si,Medio,Bueno,Si,Ninguno
-73,F,21,4.5,No,Bueno,Regular,Si,Medio
-74,F,22,1.5,Si,Medio,Bueno,Si,Medio
-75,M,20,6.7,Si,Ninguno,Bueno,No,Bueno
-76,M,23,6.9,No,Bueno,Bueno,Si,Ninguno
-77,M,22,3.8,Si,Bueno,Bueno,Si,Ninguno
-78,F,19,5.5,Si,Medio,Bueno,Si,Bueno
-79,F,19,2.4,No,Bueno,Regular,Si,Bueno
-80,M,21,1.0,No,Medio,Bueno,Si,Bueno
-81,M,21,8.6,No,Ninguno,Bueno,Si,Ninguno
-82,M,21,0.1,No,Medio,Regular,No,Bueno
-83,F,23,8.1,No,Ninguno,Bueno,No,Ninguno
-84,F,20,3.1,No,Bueno,Regular,No,Bueno
-85,M,22,4.5,Si,Bueno,Bueno,No,Ninguno
-86,M,22,2.6,Si,Ninguno,Regular,No,Ninguno
-87,M,22,2.1,Si,Medio,Bueno,No,Bueno
-88,M,19,5.0,Si,Bueno,Bueno,No,Bueno
-89,M,22,9.1,Si,Ninguno,Bueno,Si,Ninguno
-90,M,22,5.1,No,Bueno,Bueno,Si,Medio
-91,M,19,7.1,Si,Ninguno,Bueno,Si,Bueno
-92,M,21,3.7,Si,Medio,Regular,Si,Medio
-93,M,21,8.9,No,Ninguno,Regular,Si,Bueno
-94,F,22,9.6,Si,Ninguno,Regular,Si,Bueno
-95,M,19,1.3,Si,Medio,Bueno,Si,Bueno
-96,F,20,8.9,No,Bueno,Regular,Si,Bueno
-97,M,20,6.3,No,Bueno,Regular,Si,Bueno
-98,F,21,8.0,No,Bueno,Regular,No,Bueno
-99,M,22,4.5,No,Medio,Bueno,No,Ninguno
-100,M,20,8.8,Si,Medio,Regular,No,Bueno
-101,F,22,2.6,No,Ninguno,Regular,No,Ninguno
-102,M,19,2.3,Si,Medio,Regular,Si,Medio
-103,M,21,4.8,Si,Ninguno,Bueno,No,Bueno
-104,M,23,8.5,Si,Ninguno,Bueno,No,Medio
-105,F,23,4.0,No,Bueno,Regular,Si,Ninguno
-106,F,23,5.8,No,Ninguno,Regular,Si,Ninguno
-107,F,24,8.5,No,Bueno,Regular,No,Medio
-108,M,22,7.7,Si,Medio,Bueno,No,Medio
-109,M,22,9.6,Si,Ninguno,Regular,No,Medio
-110,M,21,3.8,Si,Medio,Bueno,Si,Ninguno
-111,M,24,2.9,No,Bueno,Regular,No,Bueno
-112,F,23,6.4,No,Ninguno,Bueno,No,Medio
-113,M,21,4.6,No,Medio,Regular,No,Medio
-114,M,22,7.1,No,Bueno,Regular,No,Bueno
-115,F,22,6.3,No,Ninguno,Bueno,Si,Medio
-116,F,21,2.4,No,Medio,Regular,No,Bueno
-117,F,20,6.2,No,Bueno,Bueno,Si,Ninguno
-118,F,21,4.7,No,Ninguno,Regular,No,Ninguno
-119,F,22,2.5,Si,Ninguno,Regular,Si,Medio
-120,M,22,5.7,No,Medio,Regular,Si,Ninguno
-121,M,22,4.9,Si,Bueno,Regular,No,Ninguno
-122,F,21,0.1,No,Bueno,Regular,No,Bueno
-123,F,21,8.7,Si,Ninguno,Regular,No,Medio
-124,M,22,7.0,Si,Ninguno,Regular,No,Bueno
-125,M,22,4.5,Si,Bueno,Regular,No,Ninguno
-126,F,21,7.4,No,Bueno,Bueno,No,Bueno
-127,F,24,0.6,Si,Ninguno,Regular,Si,Bueno
-128,M,21,9.6,No,Bueno,Bueno,Si,Medio
-129,M,20,0.4,No,Ninguno,Regular,Si,Ninguno
-130,M,25,9.3,No,Bueno,Bueno,No,Medio
-131,F,23,0.1,No,Bueno,Bueno,No,Ninguno
-132,M,21,5.8,Si,Ninguno,Bueno,Si,Ninguno
-133,M,22,7.6,No,Medio,Bueno,Si,Ninguno
-134,F,22,1.0,No,Ninguno,Regular,Si,Ninguno
-135,F,22,6.9,Si,Bueno,Bueno,No,Medio
-136,M,22,9.9,No,Medio,Bueno,No,Ninguno
-137,F,21,5.1,No,Bueno,Regular,No,Bueno
-138,M,21,1.1,No,Ninguno,Bueno,Si,Bueno
-139,F,24,5.9,No,Bueno,Regular,Si,Ninguno
-140,F,21,6.0,Si,Bueno,Bueno,Si,Bueno
-141,F,23,8.3,No,Bueno,Regular,Si,Medio
-142,F,23,4.1,No,Medio,Bueno,Si,Medio
-143,F,22,9.9,No,Medio,Bueno,No,Ninguno
-144,M,23,6.7,No,Bueno,Regular,No,Medio
-145,M,22,3.3,Si,Ninguno,Bueno,No,Medio
-146,M,21,8.3,Si,Bueno,Bueno,No,Ninguno
-147,M,22,9.2,Si,Ninguno,Regular,No,Medio
-148,M,22,0.8,No,Ninguno,Regular,No,Bueno
-149,F,20,9.2,No,Bueno,Regular,Si,Bueno
-150,M,21,3.7,No,Medio,Regular,Si,Medio
-151,M,22,3.2,No,Bueno,Bueno,Si,Medio
-152,M,21,8.9,No,Medio,Regular,No,Ninguno
-153,F,21,4.7,No,Bueno,Regular,Si,Bueno
-154,F,22,1.7,No,Ninguno,Regular,No,Medio
-155,M,21,4.2,No,Medio,Regular,Si,Bueno
-156,M,21,8.4,Si,Bueno,Bueno,Si,Ninguno
-157,F,22,0.4,No,Bueno,Regular,Si,Medio
-158,M,21,0.1,No,Bueno,Regular,Si,Ninguno
-159,M,22,7.0,Si,Bueno,Bueno,Si,Medio
-160,F,23,3.7,No,Ninguno,Regular,Si,Ninguno
-161,M,23,6.1,Si,Ninguno,Regular,No,Medio
-162,F,22,0.3,No,Bueno,Bueno,Si,Medio
-163,F,21,6.6,Si,Medio,Regular,Si,Ninguno
-164,F,22,3.0,Si,Medio,Regular,No,Medio
-165,M,21,4.9,No,Bueno,Regular,Si,Ninguno
-166,M,21,2.2,Si,Medio,Bueno,No,Bueno
-167,M,20,7.0,Si,Ninguno,Regular,No,Medio
-168,M,21,4.4,No,Medio,Regular,No,Medio
-169,F,21,8.1,No,Ninguno,Regular,Si,Ninguno
-170,M,22,1.2,Si,Ninguno,Bueno,No,Medio
-171,F,19,3.7,Si,Bueno,Bueno,Si,Medio
-172,M,21,5.4,Si,Ninguno,Bueno,Si,Ninguno
-173,M,24,5.5,Si,Ninguno,Bueno,Si,Bueno
-174,M,22,6.5,No,Ninguno,Bueno,Si,Ninguno
-175,M,22,6.8,Si,Bueno,Regular,No,Bueno
-176,F,22,0.8,No,Bueno,Regular,Si,Medio
-177,M,22,5.4,No,Bueno,Regular,Si,Medio
-178,M,22,9.4,No,Bueno,Bueno,No,Ninguno
-179,M,24,9.9,Si,Medio,Bueno,No,Bueno
-180,F,22,1.4,Si,Ninguno,Bueno,Si,Medio
-181,M,21,0.0,No,Ninguno,Regular,No,Medio
-182,M,21,8.9,Si,Medio,Bueno,Si,Ninguno
-183,F,22,6.5,Si,Ninguno,Regular,No,Bueno
-184,M,24,0.5,Si,Medio,Regular,No,Ninguno
-185,M,21,6.6,Si,Medio,Regular,Si,Ninguno
-186,M,20,8.7,Si,Bueno,Regular,No,Ninguno
-187,M,21,6.0,Si,Bueno,Bueno,No,Bueno
-188,F,24,1.7,Si,Bueno,Regular,No,Ninguno
-189,M,21,2.4,Si,Bueno,Regular,Si,Bueno
-190,M,19,2.8,Si,Medio,Bueno,Si,Ninguno
-191,F,22,7.1,Si,Ninguno,Bueno,Si,Ninguno
-192,M,22,1.9,No,Medio,Regular,Si,Ninguno
-193,F,21,5.2,Si,Bueno,Regular,Si,Ninguno
-194,F,21,4.3,Si,Bueno,Bueno,Si,Ninguno
-195,F,21,7.5,No,Bueno,Regular,Si,Medio
-196,M,23,1.1,No,Bueno,Bueno,Si,Medio
-197,M,21,3.7,Si,Bueno,Bueno,No,Bueno
-198,M,21,2.9,No,Medio,Bueno,No,Medio
-199,M,22,4.6,No,Medio,Bueno,No,Ninguno
-200,F,22,4.0,No,Medio,Regular,Si,Medio
-201,F,21,7.6,No,Ninguno,Bueno,Si,Medio
-202,M,20,9.6,No,Bueno,Bueno,No,Bueno
-203,M,22,1.0,No,Ninguno,Regular,No,Bueno
-204,F,21,1.3,Si,Medio,Regular,No,Medio
-205,F,21,3.0,No,Bueno,Bueno,No,Medio
-206,M,21,0.0,Si,Medio,Bueno,Si,Ninguno
-207,M,22,2.3,No,Bueno,Regular,No,Medio
-208,F,21,2.2,Si,Ninguno,Regular,Si,Ninguno
-209,F,22,5.5,Si,Ninguno,Bueno,No,Ninguno
-210,M,21,7.1,No,Ninguno,Bueno,Si,Medio
-211,M,20,5.2,No,Medio,Bueno,Si,Ninguno
-212,M,22,0.9,No,Bueno,Regular,Si,Bueno
-213,M,20,0.2,Si,Medio,Regular,Si,Ninguno
-214,F,21,6.2,No,Medio,Bueno,No,Ninguno
-215,M,22,6.7,No,Ninguno,Bueno,No,Ninguno
-216,F,21,1.5,No,Ninguno,Regular,Si,Medio
-217,M,20,6.3,Si,Medio,Regular,Si,Medio
-218,F,22,8.0,Si,Ninguno,Regular,Si,Ninguno
-219,F,22,3.3,No,Bueno,Regular,No,Ninguno
-220,F,23,7.7,Si,Bueno,Bueno,No,Medio
-221,F,21,9.2,No,Bueno,Bueno,No,Ninguno
-222,M,22,1.2,No,Ninguno,Regular,Si,Ninguno
-223,M,21,6.6,Si,Ninguno,Bueno,Si,Medio
-224,M,22,2.8,No,Ninguno,Bueno,Si,Ninguno
-225,F,23,4.9,No,Ninguno,Bueno,No,Ninguno
-226,F,22,3.7,Si,Medio,Bueno,Si,Ninguno
-227,F,23,3.3,Si,Ninguno,Regular,No,Medio
-228,M,22,1.5,No,Medio,Regular,Si,Ninguno
-229,F,22,7.0,Si,Bueno,Regular,No,Ninguno
-230,F,21,1.7,Si,Bueno,Regular,Si,Ninguno
-231,M,22,8.6,No,Ninguno,Regular,Si,Ninguno
-232,M,18,8.5,No,Medio,Bueno,No,Ninguno
-233,F,20,9.8,No,Bueno,Regular,Si,Bueno
-234,F,23,7.6,Si,Bueno,Bueno,No,Bueno
-235,M,22,4.6,Si,Ninguno,Regular,No,Bueno
-236,M,24,9.1,No,Medio,Regular,No,Ninguno
-237,F,21,1.4,Si,Bueno,Bueno,Si,Ninguno
-238,M,19,6.6,No,Ninguno,Bueno,Si,Ninguno
-239,F,22,1.2,No,Bueno,Regular,Si,Ninguno
-240,F,21,8.6,Si,Medio,Bueno,Si,Bueno
-241,M,22,3.9,No,Bueno,Bueno,No,Medio
-242,M,25,1.4,No,Bueno,Bueno,Si,Bueno
-243,M,22,5.9,No,Bueno,Bueno,No,Bueno
-244,M,21,0.6,No,Medio,Bueno,No,Bueno
-245,M,23,9.0,No,Bueno,Bueno,Si,Ninguno
-246,F,21,1.3,No,Medio,Regular,No,Medio
-247,M,22,1.0,No,Bueno,Bueno,Si,Ninguno
-248,M,21,2.4,Si,Ninguno,Bueno,Si,Bueno
-249,M,20,2.8,No,Bueno,Regular,No,Medio
-250,M,21,4.9,No,Ninguno,Bueno,No,Bueno
-251,M,22,6.9,No,Ninguno,Regular,No,Medio
-252,F,20,7.0,No,Bueno,Bueno,No,Ninguno
-253,M,21,5.7,Si,Medio,Bueno,No,Bueno
-254,F,20,1.8,No,Ninguno,Regular,Si,Bueno
-255,M,21,4.0,Si,Bueno,Regular,Si,Ninguno
-256,M,22,4.9,Si,Bueno,Regular,No,Medio
-257,F,21,1.5,No,Medio,Regular,No,Medio
-258,M,22,6.4,No,Ninguno,Bueno,No,Ninguno
-259,M,19,6.5,Si,Ninguno,Bueno,Si,Ninguno
-260,F,20,3.5,No,Bueno,Regular,No,Ninguno
-261,F,20,2.6,Si,Medio,Bueno,Si,Bueno
-262,M,22,4.0,No,Ninguno,Bueno,Si,Medio
-263,M,22,3.3,Si,Ninguno,Bueno,No,Bueno
-264,M,21,7.9,Si,Medio,Regular,No,Medio
-265,F,21,3.3,No,Medio,Bueno,No,Ninguno
-266,M,21,3.8,No,Ninguno,Bueno,Si,Ninguno
-267,F,24,2.4,No,Ninguno,Regular,Si,Bueno
-268,M,21,2.9,No,Medio,Bueno,No,Bueno
-269,M,21,3.5,No,Bueno,Regular,Si,Bueno
-270,F,20,9.6,Si,Bueno,Bueno,Si,Bueno
-271,M,21,6.8,Si,Ninguno,Bueno,No,Bueno
-272,M,22,4.4,Si,Medio,Regular,Si,Medio
-273,F,22,9.0,Si,Medio,Bueno,No,Bueno
-274,F,22,4.4,Si,Ninguno,Bueno,No,Bueno
-275,M,21,3.6,No,Bueno,Regular,Si,Bueno
-276,M,22,2.8,No,Bueno,Regular,Si,Ninguno
-277,M,23,1.8,No,Ninguno,Bueno,Si,Ninguno
-278,F,24,2.3,Si,Bueno,Regular,No,Ninguno
-279,M,21,9.9,No,Medio,Bueno,No,Ninguno
-280,M,23,5.0,No,Medio,Bueno,No,Bueno
-281,M,21,6.1,No,Bueno,Bueno,No,Ninguno
-282,M,22,7.0,No,Ninguno,Bueno,Si,Ninguno
-283,M,20,5.1,Si,Bueno,Regular,Si,Ninguno
-284,F,21,6.9,Si,Ninguno,Bueno,No,Ninguno
-285,F,22,8.2,Si,Medio,Bueno,No,Bueno
-286,M,23,9.7,Si,Ninguno,Regular,No,Ninguno
-287,F,21,5.5,No,Bueno,Regular,No,Medio
-288,M,23,9.7,No,Bueno,Regular,No,Ninguno
-289,M,22,2.6,Si,Bueno,Regular,No,Medio
-290,F,22,1.1,Si,Medio,Bueno,Si,Ninguno
-291,M,22,2.9,Si,Bueno,Bueno,Si,Ninguno
-292,F,23,0.1,No,Ninguno,Bueno,Si,Ninguno
-293,M,20,9.3,No,Medio,Regular,Si,Bueno
-294,M,22,6.4,No,Ninguno,Regular,Si,Medio
-295,F,21,2.3,Si,Medio,Regular,No,Medio
-296,M,20,2.4,Si,Bueno,Regular,No,Bueno
-297,F,24,6.3,No,Ninguno,Regular,No,Bueno
-298,F,21,1.1,No,Ninguno,Regular,Si,Medio
-299,M,20,3.2,No,Ninguno,Regular,Si,Medio
-300,M,22,6.7,Si,Ninguno,Bueno,Si,Medio
-301,M,21,8.2,No,Bueno,Regular,No,Bueno
-302,M,23,6.5,Si,Bueno,Bueno,No,Ninguno
-303,M,23,5.5,No,Medio,Regular,Si,Medio
-304,M,21,2.5,Si,Bueno,Regular,No,Medio
-305,M,20,7.4,Si,Bueno,Regular,Si,Medio
-306,M,22,1.9,No,Bueno,Regular,No,Bueno
-307,M,21,9.3,No,Bueno,Regular,No,Bueno
-308,M,23,7.0,Si,Bueno,Regular,Si,Ninguno
-309,F,22,2.4,Si,Bueno,Regular,No,Ninguno
-310,M,22,4.6,Si,Bueno,Bueno,Si,Bueno
-311,F,24,5.3,Si,Medio,Regular,No,Bueno
-312,F,20,9.4,No,Ninguno,Bueno,Si,Ninguno
-313,M,22,8.6,Si,Bueno,Regular,No,Bueno
-314,M,23,5.6,No,Ninguno,Bueno,Si,Medio
-315,F,21,2.4,Si,Bueno,Bueno,No,Ninguno
-316,F,21,3.3,No,Bueno,Regular,No,Bueno
-317,F,20,3.3,No,Ninguno,Regular,Si,Bueno
-318,M,23,2.6,No,Medio,Bueno,Si,Ninguno
-319,F,22,0.4,Si,Medio,Regular,Si,Medio
-320,M,20,6.9,Si,Bueno,Regular,No,Ninguno
-321,F,23,9.3,No,Ninguno,Regular,Si,Medio
-322,M,21,9.8,No,Ninguno,Regular,No,Medio
-323,M,21,1.7,No,Medio,Regular,No,Medio
-324,M,21,1.8,Si,Medio,Bueno,Si,Ninguno
-325,F,21,5.4,No,Ninguno,Regular,Si,Medio
-326,M,23,6.1,Si,Ninguno,Regular,No,Ninguno
-327,M,21,5.7,Si,Ninguno,Bueno,No,Ninguno
-328,M,19,5.2,Si,Bueno,Bueno,No,Medio
-329,M,22,1.2,No,Medio,Regular,Si,Ninguno
-330,M,22,5.6,Si,Ninguno,Regular,No,Ninguno
-331,M,22,0.0,Si,Ninguno,Regular,No,Medio
-332,M,22,6.4,No,Medio,Regular,Si,Medio
-333,F,22,0.4,No,Bueno,Bueno,Si,Ninguno
-334,M,22,1.9,Si,Medio,Bueno,No,Medio
-335,M,22,6.5,No,Ninguno,Regular,Si,Medio
-336,M,22,1.9,Si,Bueno,Regular,No,Bueno
-337,F,22,8.0,Si,Bueno,Regular,No,Medio
-338,M,23,2.2,Si,Ninguno,Regular,Si,Bueno
-339,M,21,8.9,No,Bueno,Regular,Si,Bueno
-340,M,22,8.8,No,Medio,Regular,No,Medio
-341,F,21,3.5,No,Ninguno,Regular,No,Bueno
-342,F,22,4.3,No,Medio,Bueno,Si,Ninguno
-343,F,23,0.9,No,Bueno,Regular,No,Ninguno
-344,F,20,3.9,Si,Medio,Regular,No,Ninguno
-345,M,23,6.4,No,Medio,Bueno,Si,Bueno
-346,M,21,7.9,No,Medio,Regular,Si,Bueno
-347,M,21,4.1,No,Medio,Bueno,Si,Ninguno
-348,F,23,4.3,No,Medio,Bueno,Si,Ninguno
-349,F,23,6.2,No,Bueno,Regular,No,Ninguno
-350,F,20,1.8,No,Medio,Regular,No,Medio
-351,M,23,0.5,No,Medio,Regular,No,Medio
-352,M,21,0.7,No,Medio,Bueno,Si,Bueno
-353,F,21,4.4,Si,Medio,Bueno,No,Bueno
-354,M,19,8.0,No,Medio,Bueno,No,Bueno
-355,M,21,4.6,No,Ninguno,Bueno,Si,Ninguno
-356,F,23,4.7,No,Ninguno,Bueno,No,Bueno
-357,M,23,0.2,No,Ninguno,Bueno,No,Bueno
-358,M,21,7.9,No,Ninguno,Bueno,No,Ninguno
-359,M,22,6.7,Si,Ninguno,Regular,No,Medio
-360,F,23,5.4,No,Medio,Regular,Si,Bueno
-361,F,22,4.2,No,Ninguno,Regular,Si,Ninguno
-362,M,22,8.2,No,Medio,Bueno,No,Medio
-363,F,22,6.0,Si,Bueno,Regular,Si,Bueno
-364,F,22,8.3,Si,Medio,Bueno,No,Ninguno
-365,M,21,2.8,Si,Bueno,Bueno,Si,Bueno
-366,F,20,4.4,No,Ninguno,Regular,No,Ninguno
-367,M,21,7.9,Si,Medio,Bueno,Si,Bueno
-368,M,21,8.4,Si,Ninguno,Regular,Si,Ninguno
-369,F,22,9.4,Si,Ninguno,Regular,No,Medio
-370,M,22,2.7,Si,Medio,Bueno,No,Medio
-371,F,22,2.6,Si,Medio,Regular,No,Ninguno
-372,M,22,0.0,No,Bueno,Bueno,Si,Bueno
-373,M,20,2.1,No,Ninguno,Regular,No,Medio
-374,M,23,1.3,No,Medio,Bueno,Si,Bueno
-375,F,22,5.6,No,Medio,Bueno,No,Ninguno
-376,M,22,7.4,No,Bueno,Bueno,Si,Medio
-377,F,20,9.5,Si,Ninguno,Regular,No,Bueno
-378,F,20,0.3,No,Bueno,Bueno,No,Medio
-379,M,21,3.6,Si,Medio,Bueno,Si,Ninguno
-380,M,22,4.1,No,Bueno,Bueno,Si,Ninguno
-381,F,19,2.7,Si,Ninguno,Regular,No,Ninguno
-382,F,23,7.3,No,Bueno,Bueno,Si,Medio
-383,M,22,6.3,Si,Bueno,Regular,Si,Bueno
-384,M,22,7.7,Si,Bueno,Regular,Si,Bueno
-385,F,21,2.3,No,Medio,Regular,Si,Bueno
-386,M,24,2.4,Si,Ninguno,Regular,Si,Medio
-387,M,21,9.3,No,Medio,Bueno,Si,Medio
-388,F,22,5.4,Si,Ninguno,Regular,Si,Medio
-389,F,22,1.8,Si,Medio,Regular,Si,Ninguno
-390,F,23,5.8,No,Ninguno,Regular,Si,Medio
-391,M,21,1.0,No,Ninguno,Regular,Si,Ninguno
-392,M,23,7.4,Si,Ninguno,Regular,No,Bueno
-393,F,22,9.2,No,Medio,Regular,Si,Ninguno
-394,M,22,4.5,Si,Medio,Bueno,No,Ninguno
-395,M,23,0.5,Si,Medio,Bueno,No,Ninguno
-396,M,21,5.8,No,Medio,Regular,Si,Bueno
-397,F,22,4.1,Si,Bueno,Regular,No,Medio
-398,F,22,8.9,Si,Ninguno,Bueno,No,Bueno
-399,M,22,1.9,Si,Ninguno,Regular,Si,Medio
-400,F,21,1.7,Si,Bueno,Bueno,Si,Medio
-401,F,21,5.5,Si,Ninguno,Regular,No,Medio
-402,M,20,3.0,No,Bueno,Regular,No,Ninguno
-403,M,23,5.2,Si,Bueno,Regular,No,Medio
-404,M,21,4.6,No,Medio,Regular,Si,Medio
-405,M,20,6.5,No,Medio,Regular,Si,Bueno
-406,M,20,6.5,No,Medio,Bueno,No,Medio
-407,F,21,7.1,Si,Ninguno,Bueno,Si,Bueno
-408,M,22,5.3,No,Bueno,Regular,No,Bueno
-409,M,20,6.4,No,Bueno,Regular,Si,Bueno
-410,M,20,2.0,No,Bueno,Regular,No,Bueno
-411,F,21,4.3,No,Medio,Bueno,Si,Medio
-412,F,21,8.5,Si,Ninguno,Bueno,No,Medio
-413,F,22,1.5,No,Bueno,Bueno,No,Medio
-414,F,20,2.6,Si,Ninguno,Regular,Si,Medio
-415,M,20,1.1,Si,Ninguno,Regular,No,Bueno
-416,M,21,2.7,Si,Medio,Bueno,No,Medio
-417,M,24,3.5,No,Bueno,Regular,Si,Ninguno
-418,M,22,9.3,Si,Ninguno,Bueno,No,Medio
-419,M,22,4.7,No,Bueno,Bueno,No,Medio
-420,M,20,1.8,No,Medio,Bueno,No,Medio
-421,M,21,8.9,Si,Ninguno,Regular,No,Bueno
-422,F,20,3.4,No,Ninguno,Regular,No,Medio
-423,M,21,0.8,Si,Ninguno,Regular,Si,Medio
-424,M,22,5.1,No,Ninguno,Bueno,Si,Ninguno
-425,M,21,10.0,No,Medio,Bueno,No,Bueno
-426,F,23,2.1,Si,Bueno,Regular,Si,Ninguno
-427,F,22,4.3,No,Medio,Regular,No,Bueno
-428,F,21,5.8,No,Ninguno,Bueno,Si,Bueno
-429,M,20,5.0,No,Bueno,Regular,No,Bueno
-430,F,20,8.2,No,Medio,Regular,Si,Bueno
-431,M,23,5.9,Si,Ninguno,Bueno,Si,Bueno
-432,F,21,5.2,Si,Ninguno,Bueno,Si,Bueno
-433,M,23,7.9,Si,Medio,Bueno,Si,Bueno
-434,M,23,3.5,No,Ninguno,Regular,No,Medio
-435,M,19,1.7,No,Medio,Bueno,Si,Ninguno
-436,F,21,9.2,No,Ninguno,Bueno,No,Medio
-437,M,21,4.0,No,Medio,Regular,No,Medio
-438,M,21,0.3,Si,Bueno,Bueno,Si,Medio
-439,M,22,1.4,No,Bueno,Bueno,No,Bueno
-440,F,21,1.9,No,Ninguno,Bueno,Si,Ninguno
-441,M,21,7.3,No,Bueno,Bueno,No,Medio
-442,F,21,9.0,No,Medio,Bueno,Si,Bueno
-443,M,22,7.3,No,Medio,Regular,Si,Medio
-444,M,19,1.0,Si,Medio,Bueno,Si,Medio
-445,M,21,6.4,Si,Medio,Bueno,Si,Bueno
-446,M,22,4.3,No,Bueno,Regular,Si,Ninguno
-447,F,20,1.1,Si,Medio,Regular,No,Medio
-448,F,21,1.5,Si,Bueno,Regular,No,Bueno
-449,M,24,0.1,No,Bueno,Regular,No,Ninguno
-450,M,22,8.0,No,Medio,Bueno,Si,Bueno
-451,M,20,2.8,No,Ninguno,Regular,Si,Ninguno
-452,M,23,8.6,No,Medio,Bueno,No,Ninguno
-453,F,23,0.5,Si,Ninguno,Regular,Si,Ninguno
-454,F,22,6.0,Si,Bueno,Bueno,Si,Medio
-455,M,21,4.5,Si,Ninguno,Regular,Si,Bueno
-456,M,22,1.1,Si,Ninguno,Bueno,Si,Ninguno
-457,F,22,8.6,No,Bueno,Regular,No,Medio
-458,F,21,3.2,Si,Bueno,Regular,Si,Medio
-459,M,24,7.1,Si,Ninguno,Regular,No,Medio
-460,M,21,9.4,No,Bueno,Regular,Si,Ninguno
-461,M,21,0.6,Si,Medio,Bueno,No,Bueno
-462,M,20,8.8,Si,Ninguno,Bueno,Si,Ninguno
-463,F,23,8.6,No,Ninguno,Bueno,Si,Bueno
-464,M,21,0.3,Si,Medio,Regular,No,Bueno
-465,M,21,5.1,No,Bueno,Bueno,Si,Ninguno
-466,M,21,2.9,No,Ninguno,Regular,Si,Ninguno
-467,F,21,2.8,Si,Medio,Bueno,No,Medio
-468,F,20,2.1,No,Ninguno,Bueno,Si,Medio
-469,M,22,9.2,No,Bueno,Regular,No,Bueno
-470,F,21,7.7,No,Bueno,Bueno,No,Ninguno
-471,F,24,0.3,Si,Bueno,Regular,Si,Ninguno
-472,F,21,1.9,No,Ninguno,Bueno,Si,Ninguno
-473,M,21,1.3,Si,Ninguno,Bueno,No,Bueno
-474,F,22,1.5,No,Ninguno,Regular,No,Bueno
-475,M,23,4.2,Si,Medio,Bueno,Si,Bueno
-476,M,22,4.8,No,Bueno,Bueno,Si,Ninguno
-477,M,23,7.0,No,Bueno,Regular,Si,Medio
-478,F,21,5.7,Si,Ninguno,Bueno,No,Medio
-479,M,20,5.3,No,Ninguno,Bueno,No,Medio
-480,M,20,7.6,Si,Ninguno,Regular,No,Medio
-481,F,22,3.1,No,Bueno,Bueno,No,Bueno
-482,M,21,1.6,Si,Ninguno,Regular,No,Ninguno
-483,M,21,2.9,No,Bueno,Regular,No,Bueno
-484,F,20,9.2,No,Ninguno,Bueno,Si,Ninguno
-485,M,21,7.8,No,Bueno,Bueno,Si,Bueno
-486,M,22,0.5,No,Ninguno,Regular,Si,Ninguno
-487,M,22,2.4,Si,Bueno,Regular,Si,Ninguno
-488,M,19,9.1,No,Bueno,Bueno,No,Medio
-489,M,21,5.7,No,Medio,Bueno,Si,Bueno
-490,M,23,2.6,No,Medio,Regular,Si,Medio
-491,M,22,9.0,No,Bueno,Regular,Si,Medio
-492,F,23,4.0,Si,Medio,Regular,No,Ninguno
-493,M,20,2.8,Si,Bueno,Bueno,No,Ninguno
-494,M,22,5.0,Si,Ninguno,Bueno,No,Bueno
-495,M,21,0.2,No,Ninguno,Bueno,Si,Bueno
-496,M,21,3.7,Si,Ninguno,Bueno,Si,Ninguno
-497,M,22,1.7,Si,Ninguno,Bueno,Si,Ninguno
-498,F,23,3.4,Si,Ninguno,Regular,No,Medio
-499,F,20,8.5,No,Bueno,Regular,Si,Medio
-500,F,23,3.8,Si,Medio,Regular,No,Bueno
-501,M,23,4.9,No,Bueno,Regular,Si,Bueno
-502,F,21,0.8,No,Ninguno,Bueno,No,Ninguno
-503,M,23,3.7,Si,Medio,Regular,Si,Ninguno
-504,F,21,2.7,Si,Ninguno,Regular,No,Bueno
-505,M,21,7.0,No,Medio,Regular,Si,Ninguno
-506,M,23,4.7,No,Bueno,Bueno,No,Bueno
-507,M,23,0.6,No,Medio,Regular,Si,Bueno
-508,F,21,5.9,Si,Bueno,Regular,Si,Bueno
-509,M,22,3.7,No,Medio,Bueno,Si,Medio
-510,M,22,6.6,Si,Bueno,Regular,No,Ninguno
-511,F,22,4.4,No,Medio,Bueno,Si,Bueno
-512,M,23,6.9,No,Bueno,Regular,Si,Bueno
-513,M,23,3.6,Si,Ninguno,Regular,No,Medio
-514,M,21,9.5,Si,Medio,Regular,Si,Ninguno
-515,F,22,1.2,Si,Bueno,Bueno,Si,Ninguno
-516,F,23,6.3,No,Bueno,Bueno,No,Bueno
-517,M,22,5.5,Si,Medio,Regular,Si,Ninguno
-518,M,22,5.4,No,Medio,Regular,No,Ninguno
-519,F,19,6.3,No,Bueno,Bueno,Si,Bueno
-520,F,22,4.5,Si,Ninguno,Bueno,Si,Ninguno
-521,F,22,9.6,Si,Medio,Regular,No,Bueno
-522,F,24,7.4,No,Ninguno,Regular,No,Medio
-523,F,20,0.9,No,Bueno,Bueno,Si,Ninguno
-524,M,22,6.6,No,Medio,Regular,No,Ninguno
-525,F,22,5.9,Si,Medio,Regular,No,Medio
-526,M,22,1.5,Si,Medio,Bueno,No,Medio
-527,M,20,0.5,Si,Ninguno,Regular,No,Ninguno
-528,M,23,0.9,No,Bueno,Regular,Si,Bueno
-529,M,23,2.7,Si,Ninguno,Regular,Si,Medio
-530,M,20,5.2,No,Bueno,Bueno,Si,Ninguno
-531,F,21,9.5,Si,Bueno,Bueno,Si,Medio
-532,M,21,9.4,No,Medio,Bueno,No,Medio
-533,M,23,6.0,No,Bueno,Regular,No,Ninguno
-534,M,22,2.1,Si,Medio,Bueno,Si,Bueno
-535,M,21,10.0,Si,Bueno,Regular,No,Bueno
-536,F,21,5.6,Si,Medio,Regular,No,Bueno
-537,M,21,1.6,No,Bueno,Regular,No,Bueno
-538,M,20,2.8,Si,Medio,Regular,No,Medio
-539,F,21,1.6,Si,Medio,Regular,Si,Bueno
-540,M,22,3.2,No,Ninguno,Bueno,Si,Bueno
-541,M,23,8.4,No,Medio,Bueno,Si,Medio
-542,F,21,8.2,No,Medio,Regular,Si,Bueno
-543,F,21,7.7,No,Medio,Regular,No,Bueno
-544,M,21,2.3,Si,Medio,Regular,Si,Ninguno
-545,F,22,6.4,No,Ninguno,Bueno,Si,Medio
-546,M,21,4.5,No,Medio,Regular,Si,Bueno
-547,F,22,3.1,No,Ninguno,Bueno,No,Ninguno
-548,M,23,9.0,No,Medio,Regular,Si,Bueno
-549,F,19,0.7,Si,Bueno,Regular,Si,Medio
-550,M,21,5.6,Si,Medio,Regular,No,Ninguno
-551,F,23,7.8,No,Ninguno,Bueno,Si,Ninguno
-552,M,21,8.2,No,Bueno,Bueno,No,Bueno
-553,M,22,9.5,Si,Medio,Bueno,Si,Ninguno
-554,M,19,3.8,No,Ninguno,Bueno,No,Ninguno
-555,M,23,7.9,No,Ninguno,Bueno,No,Medio
-556,M,22,0.2,No,Ninguno,Regular,No,Ninguno
-557,F,24,9.0,Si,Ninguno,Bueno,No,Bueno
-558,M,21,1.8,No,Ninguno,Regular,Si,Medio
-559,M,22,3.0,Si,Medio,Bueno,No,Ninguno
-560,M,21,9.5,Si,Bueno,Bueno,No,Ninguno
-561,M,22,6.4,Si,Medio,Regular,Si,Ninguno
-562,M,21,3.2,Si,Ninguno,Regular,No,Medio
-563,M,20,5.2,Si,Ninguno,Bueno,No,Ninguno
-564,M,20,1.5,Si,Medio,Bueno,No,Medio
-565,F,19,1.4,No,Ninguno,Bueno,No,Ninguno
-566,M,23,2.3,Si,Ninguno,Regular,Si,Bueno
-567,M,22,0.2,Si,Bueno,Bueno,No,Bueno
-568,F,22,9.5,No,Bueno,Bueno,No,Medio
-569,M,20,9.4,No,Medio,Bueno,No,Medio
-570,M,21,2.2,Si,Ninguno,Bueno,No,Medio
-571,F,22,8.3,Si,Medio,Bueno,Si,Ninguno
-572,M,21,3.7,No,Bueno,Bueno,No,Medio
-573,M,22,6.4,No,Medio,Bueno,Si,Bueno
-574,F,21,3.4,No,Medio,Bueno,No,Medio
-575,M,20,2.0,Si,Ninguno,Regular,Si,Bueno
-576,M,23,2.7,No,Medio,Bueno,Si,Bueno
-577,F,21,9.1,No,Medio,Regular,No,Ninguno
-578,F,21,6.7,Si,Medio,Bueno,No,Bueno
-579,F,20,8.5,Si,Bueno,Bueno,No,Ninguno
-580,M,22,2.8,Si,Ninguno,Bueno,No,Medio
-581,M,23,8.2,No,Ninguno,Bueno,No,Ninguno
-582,M,22,4.7,Si,Bueno,Regular,No,Ninguno
-583,M,21,4.3,No,Bueno,Regular,No,Ninguno
-584,M,24,8.7,No,Ninguno,Regular,Si,Bueno
-585,M,21,6.5,No,Bueno,Regular,No,Medio
-586,F,19,8.9,No,Medio,Bueno,No,Bueno
-587,M,20,0.7,Si,Medio,Regular,Si,Ninguno
-588,M,24,0.6,Si,Ninguno,Regular,Si,Medio
-589,F,20,6.2,Si,Bueno,Bueno,Si,Medio
-590,F,24,2.2,No,Medio,Bueno,Si,Medio
-591,M,21,6.8,Si,Ninguno,Regular,No,Medio
-592,F,21,8.6,No,Medio,Bueno,No,Ninguno
-593,M,22,7.7,Si,Bueno,Bueno,No,Bueno
-594,M,21,5.6,No,Ninguno,Regular,No,Medio
-595,M,20,1.0,No,Bueno,Regular,Si,Bueno
-596,M,21,9.0,Si,Medio,Bueno,No,Bueno
-597,M,23,0.1,Si,Bueno,Regular,Si,Bueno
-598,M,20,2.7,No,Medio,Bueno,Si,Ninguno
-599,F,22,7.3,Si,Ninguno,Bueno,Si,Bueno
-600,M,22,0.3,Si,Medio,Bueno,Si,Bueno
-601,M,22,7.3,No,Bueno,Bueno,No,Ninguno
-602,F,21,3.4,Si,Ninguno,Regular,Si,Ninguno
-603,M,21,3.3,Si,Bueno,Bueno,No,Medio
-604,M,21,0.0,Si,Medio,Regular,Si,Ninguno
-605,M,21,8.8,No,Bueno,Regular,Si,Bueno
-606,M,20,7.0,Si,Medio,Bueno,No,Ninguno
-607,M,21,1.3,Si,Ninguno,Bueno,No,Medio
-608,M,21,6.7,Si,Medio,Bueno,Si,Ninguno
-609,M,23,4.0,No,Medio,Regular,Si,Bueno
-610,M,21,5.1,Si,Ninguno,Bueno,No,Medio
-611,M,21,3.5,Si,Medio,Bueno,Si,Bueno
-612,M,22,2.3,Si,Medio,Regular,Si,Bueno
-613,F,21,3.1,No,Bueno,Regular,Si,Bueno
-614,F,22,9.5,Si,Bueno,Bueno,No,Bueno
-615,M,22,8.7,No,Medio,Bueno,Si,Ninguno
-616,M,22,1.1,No,Bueno,Bueno,Si,Medio
-617,F,21,4.2,No,Bueno,Regular,No,Ninguno
-618,M,19,3.7,Si,Bueno,Regular,Si,Bueno
-619,F,22,0.2,Si,Ninguno,Bueno,Si,Bueno
-620,M,23,8.4,No,Ninguno,Regular,No,Ninguno
-621,F,20,6.7,Si,Medio,Regular,No,Bueno
-622,F,21,9.8,No,Medio,Regular,No,Ninguno
-623,F,19,9.7,No,Bueno,Regular,Si,Bueno
-624,M,20,1.5,Si,Medio,Bueno,Si,Ninguno
-625,M,22,4.5,Si,Bueno,Bueno,Si,Medio
-626,M,22,8.7,Si,Bueno,Regular,No,Medio
-627,F,21,3.2,No,Medio,Regular,No,Ninguno
-628,F,21,0.6,Si,Ninguno,Bueno,Si,Medio
-629,M,21,3.6,Si,Medio,Regular,Si,Ninguno
-630,F,20,3.4,Si,Medio,Regular,Si,Bueno
-631,M,21,9.7,No,Medio,Regular,Si,Bueno
-632,M,22,7.2,No,Ninguno,Regular,Si,Bueno
-633,M,22,9.1,Si,Bueno,Bueno,No,Medio
-634,M,23,1.7,Si,Ninguno,Bueno,Si,Medio
-635,M,21,1.0,Si,Bueno,Regular,Si,Medio
-636,F,22,6.2,No,Bueno,Regular,Si,Ninguno
-637,M,20,5.8,Si,Bueno,Regular,No,Medio
-638,F,20,4.5,No,Ninguno,Regular,Si,Bueno
-639,F,20,6.4,Si,Medio,Regular,No,Medio
-640,F,20,9.7,No,Ninguno,Regular,Si,Bueno
-641,M,22,5.1,Si,Ninguno,Regular,No,Ninguno
-642,M,21,4.0,Si,Medio,Bueno,No,Bueno
-643,M,21,5.1,Si,Bueno,Regular,Si,Medio
-644,M,23,2.9,Si,Ninguno,Bueno,Si,Ninguno
-645,M,20,8.7,No,Bueno,Regular,No,Bueno
-646,F,24,0.6,Si,Bueno,Regular,Si,Bueno
-647,M,22,2.5,Si,Medio,Regular,Si,Bueno
-648,F,22,6.8,No,Bueno,Regular,Si,Ninguno
-649,M,23,7.5,Si,Bueno,Bueno,Si,Medio
-650,M,22,0.3,Si,Ninguno,Bueno,No,Bueno
-651,M,22,0.4,Si,Ninguno,Bueno,Si,Medio
-652,M,20,0.4,Si,Bueno,Bueno,No,Bueno
-653,F,21,3.3,Si,Medio,Bueno,Si,Bueno
-654,F,21,9.4,No,Bueno,Regular,No,Medio
-655,F,20,2.0,No,Medio,Regular,No,Medio
-656,M,23,8.4,No,Ninguno,Bueno,Si,Medio
-657,M,21,5.8,No,Ninguno,Bueno,No,Bueno
-658,F,22,9.8,No,Medio,Bueno,Si,Bueno
-659,M,21,4.5,Si,Ninguno,Bueno,Si,Bueno
-660,F,21,5.3,No,Bueno,Regular,No,Medio
-661,M,22,9.4,Si,Ninguno,Bueno,No,Ninguno
-662,M,22,0.4,Si,Bueno,Regular,No,Medio
-663,M,22,6.3,Si,Bueno,Bueno,Si,Ninguno
-664,F,22,6.4,No,Bueno,Bueno,Si,Ninguno
-665,M,23,9.1,Si,Medio,Bueno,Si,Bueno
-666,M,22,3.2,No,Medio,Regular,Si,Medio
-667,F,22,8.5,Si,Medio,Regular,Si,Medio
-668,M,20,9.8,Si,Ninguno,Bueno,No,Ninguno
-669,M,21,2.9,Si,Ninguno,Regular,No,Bueno
-670,F,23,2.7,Si,Ninguno,Bueno,No,Ninguno
-671,F,22,9.3,Si,Bueno,Regular,No,Bueno
-672,F,24,1.8,No,Ninguno,Bueno,No,Medio
-673,M,21,5.4,Si,Ninguno,Bueno,No,Ninguno
-674,F,20,6.3,No,Ninguno,Bueno,No,Bueno
-675,F,21,0.8,Si,Ninguno,Bueno,Si,Medio
-676,M,21,4.0,No,Ninguno,Regular,Si,Bueno
-677,M,21,6.2,No,Medio,Bueno,Si,Medio
-678,F,21,8.1,No,Medio,Bueno,Si,Medio
-679,M,19,3.9,Si,Ninguno,Regular,Si,Ninguno
-680,F,21,8.0,Si,Ninguno,Bueno,No,Bueno
-681,F,21,8.9,No,Bueno,Bueno,Si,Medio
-682,F,19,8.7,No,Bueno,Bueno,Si,Ninguno
-683,M,24,4.8,Si,Bueno,Regular,Si,Medio
-684,M,22,4.5,No,Bueno,Regular,Si,Bueno
-685,M,22,2.0,Si,Bueno,Bueno,No,Ninguno
-686,M,23,5.4,No,Bueno,Bueno,No,Medio
-687,F,23,4.5,Si,Bueno,Regular,No,Ninguno
-688,F,20,3.2,Si,Medio,Regular,No,Ninguno
-689,M,23,9.3,No,Medio,Bueno,Si,Bueno
-690,F,22,4.0,No,Medio,Regular,Si,Medio
-691,M,23,3.8,Si,Ninguno,Regular,No,Bueno
-692,M,21,1.6,No,Bueno,Bueno,Si,Ninguno
-693,M,23,2.3,No,Ninguno,Bueno,Si,Medio
-694,M,22,1.8,No,Medio,Regular,No,Ninguno
-695,M,22,6.5,Si,Bueno,Regular,No,Bueno
-696,M,20,3.9,Si,Ninguno,Bueno,No,Medio
-697,M,20,6.5,No,Bueno,Regular,No,Ninguno
-698,F,23,0.7,Si,Medio,Regular,No,Medio
-699,F,24,2.7,Si,Bueno,Regular,Si,Medio
-700,F,20,5.6,Si,Bueno,Bueno,No,Ninguno
-701,F,23,1.3,Si,Ninguno,Bueno,Si,Bueno
-702,M,20,5.4,Si,Bueno,Bueno,Si,Bueno
-703,F,21,7.9,No,Medio,Regular,No,Bueno
-704,M,21,1.2,Si,Bueno,Bueno,No,Medio
-705,M,22,5.4,Si,Bueno,Regular,Si,Medio
-706,F,23,1.9,Si,Ninguno,Regular,Si,Ninguno
-707,F,22,2.5,Si,Ninguno,Regular,Si,Bueno
-708,M,22,8.5,No,Medio,Regular,Si,Medio
-709,F,20,2.2,Si,Medio,Regular,No,Ninguno
-710,M,21,0.4,Si,Medio,Bueno,No,Medio
-711,F,21,9.8,Si,Ninguno,Bueno,Si,Ninguno
-712,M,22,2.6,No,Medio,Regular,No,Medio
-713,M,23,8.6,Si,Medio,Regular,Si,Medio
-714,F,22,5.6,No,Bueno,Regular,No,Bueno
-715,M,23,3.4,No,Medio,Regular,Si,Ninguno
-716,M,21,5.2,Si,Medio,Regular,No,Ninguno
-717,M,22,5.0,Si,Medio,Regular,No,Medio
-718,F,23,4.9,No,Ninguno,Bueno,Si,Bueno
-719,F,23,8.8,No,Ninguno,Bueno,Si,Bueno
-720,M,23,9.6,Si,Ninguno,Bueno,No,Bueno
-721,M,22,9.7,No,Medio,Regular,No,Medio
-722,M,21,3.7,No,Medio,Bueno,Si,Medio
-723,M,19,8.0,No,Bueno,Bueno,No,Medio
-724,F,25,1.8,Si,Bueno,Bueno,No,Ninguno
-725,F,21,1.0,Si,Ninguno,Bueno,No,Ninguno
-726,M,22,4.4,Si,Medio,Regular,No,Ninguno
-727,M,21,5.4,No,Bueno,Bueno,No,Ninguno
-728,F,21,9.0,Si,Ninguno,Bueno,Si,Ninguno
-729,F,21,3.7,No,Ninguno,Bueno,No,Ninguno
-730,M,24,1.4,Si,Ninguno,Bueno,No,Bueno
-731,M,21,0.5,No,Bueno,Bueno,Si,Bueno
-732,F,21,4.2,Si,Medio,Regular,Si,Ninguno
-733,M,21,4.3,Si,Bueno,Bueno,No,Ninguno
-734,M,22,7.8,No,Bueno,Bueno,No,Ninguno
-735,M,21,1.0,Si,Ninguno,Regular,No,Ninguno
-736,F,23,3.9,No,Bueno,Regular,No,Bueno
-737,F,22,2.5,No,Bueno,Bueno,No,Bueno
-738,F,22,9.2,Si,Bueno,Regular,No,Medio
-739,M,24,9.3,No,Ninguno,Bueno,Si,Ninguno
-740,F,19,5.6,No,Medio,Regular,No,Ninguno
-741,M,22,3.4,Si,Medio,Bueno,Si,Medio
-742,F,22,2.2,No,Ninguno,Bueno,No,Medio
-743,M,25,0.8,No,Medio,Regular,No,Bueno
-744,M,22,6.5,No,Bueno,Regular,No,Bueno
-745,M,21,7.5,Si,Ninguno,Bueno,No,Ninguno
-746,F,18,0.8,No,Medio,Bueno,Si,Ninguno
-747,M,20,0.7,No,Ninguno,Bueno,Si,Bueno
-748,M,20,9.0,Si,Bueno,Bueno,No,Bueno
-749,F,23,6.9,Si,Bueno,Bueno,Si,Bueno
-750,M,22,6.8,No,Ninguno,Bueno,No,Bueno
-751,M,23,3.9,No,Medio,Bueno,No,Bueno
-752,M,22,5.6,Si,Ninguno,Regular,No,Medio
-753,M,22,9.6,No,Ninguno,Regular,No,Bueno
-754,M,21,3.0,No,Ninguno,Regular,Si,Medio
-755,M,19,2.4,No,Ninguno,Bueno,No,Ninguno
-756,F,19,2.6,No,Medio,Regular,Si,Bueno
-757,F,21,5.4,Si,Ninguno,Regular,Si,Ninguno
-758,F,19,9.6,No,Bueno,Regular,Si,Bueno
-759,F,23,5.8,No,Ninguno,Bueno,Si,Ninguno
-760,M,23,9.5,No,Ninguno,Bueno,Si,Ninguno
-761,M,21,2.0,Si,Bueno,Bueno,Si,Medio
-762,F,19,3.1,Si,Bueno,Regular,No,Ninguno
-763,M,20,8.8,Si,Medio,Bueno,Si,Ninguno
-764,M,22,9.0,Si,Bueno,Bueno,Si,Bueno
-765,M,20,7.9,Si,Medio,Regular,No,Ninguno
-766,M,23,8.5,No,Medio,Bueno,No,Medio
-767,M,20,7.4,Si,Bueno,Bueno,No,Bueno
-768,M,23,5.8,No,Bueno,Bueno,Si,Bueno
-769,M,22,7.3,No,Ninguno,Regular,Si,Ninguno
-770,M,23,8.4,No,Medio,Regular,No,Ninguno
-771,M,22,6.4,Si,Medio,Bueno,No,Medio
-772,M,21,7.9,No,Ninguno,Regular,Si,Medio
-773,F,20,0.4,Si,Ninguno,Bueno,Si,Bueno
-774,F,22,3.2,No,Ninguno,Regular,Si,Bueno
-775,M,21,0.2,Si,Ninguno,Regular,No,Medio
-776,F,20,3.7,Si,Ninguno,Regular,No,Bueno
-777,F,21,7.9,No,Bueno,Bueno,Si,Medio
-778,M,23,0.1,Si,Bueno,Bueno,Si,Ninguno
-779,F,21,6.8,Si,Bueno,Regular,No,Ninguno
-780,F,20,9.9,Si,Bueno,Bueno,No,Bueno
-781,M,24,4.5,No,Medio,Regular,No,Bueno
-782,M,20,0.5,Si,Bueno,Regular,No,Ninguno
-783,M,22,0.4,Si,Ninguno,Regular,No,Medio
-784,M,20,0.6,Si,Bueno,Regular,No,Medio
-785,M,21,2.8,No,Medio,Bueno,Si,Ninguno
-786,F,22,8.2,Si,Medio,Bueno,Si,Ninguno
-787,M,23,3.8,Si,Bueno,Bueno,No,Ninguno
-788,F,21,2.5,No,Medio,Bueno,Si,Ninguno
-789,F,22,7.5,Si,Ninguno,Bueno,Si,Ninguno
-790,M,21,9.4,Si,Ninguno,Bueno,Si,Medio
-791,M,19,5.2,Si,Ninguno,Regular,Si,Bueno
-792,M,23,9.2,Si,Medio,Bueno,Si,Ninguno
-793,M,21,5.2,No,Bueno,Regular,Si,Medio
-794,M,21,7.7,Si,Medio,Regular,No,Bueno
-795,M,22,3.4,No,Bueno,Bueno,Si,Bueno
-796,M,21,8.0,Si,Ninguno,Bueno,Si,Medio
-797,M,22,7.1,Si,Medio,Regular,Si,Ninguno
-798,M,21,5.0,Si,Ninguno,Regular,Si,Medio
-799,M,21,2.5,No,Ninguno,Regular,No,Bueno
-800,M,22,7.0,No,Ninguno,Regular,No,Ninguno
-801,M,22,5.6,No,Medio,Bueno,No,Bueno
-802,F,22,6.4,No,Bueno,Regular,Si,Ninguno
-803,M,21,4.8,No,Ninguno,Regular,No,Medio
-804,F,18,3.3,Si,Ninguno,Regular,Si,Medio
-805,F,21,9.1,No,Bueno,Regular,No,Ninguno
-806,F,22,7.1,Si,Ninguno,Regular,Si,Bueno
-807,M,21,3.9,Si,Ninguno,Regular,Si,Bueno
-808,F,20,6.8,No,Medio,Bueno,Si,Medio
-809,M,22,7.5,Si,Medio,Bueno,No,Medio
-810,M,22,0.6,No,Ninguno,Bueno,Si,Medio
-811,M,21,5.5,No,Bueno,Bueno,No,Ninguno
-812,M,21,9.2,No,Ninguno,Regular,No,Bueno
-813,F,21,7.5,Si,Medio,Regular,Si,Bueno
-814,M,23,8.4,Si,Bueno,Bueno,No,Ninguno
-815,F,22,8.2,No,Ninguno,Regular,Si,Ninguno
-816,F,22,0.9,Si,Ninguno,Bueno,No,Ninguno
-817,M,22,7.0,No,Ninguno,Regular,No,Medio
-818,M,21,9.9,No,Ninguno,Regular,No,Bueno
-819,F,22,9.3,Si,Bueno,Regular,No,Ninguno
-820,M,23,9.0,No,Medio,Regular,No,Ninguno
-821,M,22,6.4,No,Medio,Bueno,No,Bueno
-822,M,21,6.5,No,Medio,Bueno,No,Ninguno
-823,M,21,3.0,Si,Medio,Regular,No,Ninguno
-824,M,21,1.1,Si,Ninguno,Bueno,Si,Ninguno
-825,F,22,9.4,Si,Ninguno,Regular,No,Ninguno
-826,F,22,8.6,No,Bueno,Regular,No,Bueno
-827,F,21,8.4,Si,Medio,Regular,No,Ninguno
-828,M,22,4.9,No,Bueno,Bueno,Si,Bueno
-829,M,23,5.4,No,Bueno,Regular,Si,Ninguno
-830,F,21,2.6,Si,Ninguno,Bueno,Si,Bueno
-831,F,21,0.5,No,Ninguno,Bueno,Si,Ninguno
-832,M,20,2.1,No,Ninguno,Regular,No,Medio
-833,F,19,5.5,Si,Bueno,Regular,Si,Medio
-834,F,20,8.5,Si,Ninguno,Bueno,No,Medio
-835,F,21,7.3,No,Ninguno,Regular,Si,Medio
-836,M,21,3.2,No,Ninguno,Regular,No,Medio
-837,F,23,2.6,No,Bueno,Bueno,Si,Medio
-838,M,23,7.9,No,Ninguno,Bueno,No,Bueno
-839,M,21,4.7,Si,Bueno,Bueno,No,Medio
-840,M,21,4.4,No,Ninguno,Regular,Si,Bueno
-841,F,21,3.0,No,Bueno,Regular,Si,Ninguno
-842,F,22,1.2,Si,Medio,Bueno,No,Bueno
-843,F,21,8.8,No,Ninguno,Regular,No,Medio
-844,M,24,8.5,No,Bueno,Bueno,No,Medio
-845,F,21,6.4,Si,Bueno,Bueno,No,Medio
-846,M,23,2.0,No,Ninguno,Bueno,No,Bueno
-847,M,22,5.6,No,Medio,Bueno,Si,Bueno
-848,M,20,5.8,Si,Bueno,Regular,No,Medio
-849,M,20,1.5,Si,Bueno,Bueno,No,Ninguno
-850,M,23,1.5,Si,Ninguno,Regular,Si,Ninguno
-851,M,21,9.3,Si,Bueno,Regular,Si,Bueno
-852,F,21,2.0,No,Ninguno,Regular,Si,Bueno
-853,M,22,2.2,No,Bueno,Bueno,Si,Bueno
-854,F,21,4.2,Si,Medio,Regular,No,Ninguno
-855,F,23,3.0,No,Bueno,Regular,Si,Bueno
-856,F,23,6.3,No,Medio,Regular,Si,Bueno
-857,M,21,0.3,No,Bueno,Regular,No,Bueno
-858,F,21,5.4,Si,Bueno,Bueno,Si,Ninguno
-859,F,22,3.0,No,Medio,Bueno,Si,Medio
-860,M,24,9.5,Si,Ninguno,Bueno,No,Medio
-861,M,22,1.5,Si,Ninguno,Regular,No,Bueno
-862,M,22,5.7,Si,Bueno,Regular,Si,Medio
-863,F,22,6.1,No,Bueno,Regular,Si,Medio
-864,M,20,3.3,No,Ninguno,Bueno,No,Bueno
-865,F,22,0.9,No,Ninguno,Bueno,Si,Medio
-866,F,19,0.8,No,Bueno,Regular,No,Medio
-867,M,23,9.1,No,Ninguno,Regular,Si,Bueno
-868,M,21,7.1,Si,Medio,Regular,No,Ninguno
-869,M,23,3.2,No,Ninguno,Bueno,Si,Bueno
-870,M,22,3.2,Si,Ninguno,Bueno,Si,Bueno
-871,M,23,1.0,Si,Bueno,Regular,No,Bueno
-872,F,21,2.3,Si,Bueno,Regular,No,Medio
-873,F,20,1.7,Si,Bueno,Bueno,No,Medio
-874,M,23,2.0,Si,Bueno,Bueno,Si,Ninguno
-875,F,24,3.5,No,Bueno,Regular,Si,Bueno
-876,F,22,2.7,Si,Medio,Bueno,No,Bueno
-877,M,22,1.1,No,Bueno,Regular,No,Ninguno
-878,M,21,7.2,Si,Ninguno,Bueno,No,Ninguno
-879,M,23,3.4,Si,Bueno,Regular,Si,Bueno
-880,M,20,1.9,No,Ninguno,Regular,No,Medio
-881,F,23,5.2,Si,Ninguno,Bueno,Si,Medio
-882,F,19,3.2,No,Bueno,Regular,No,Bueno
-883,M,22,4.5,Si,Ninguno,Regular,Si,Ninguno
-884,M,21,5.4,Si,Ninguno,Bueno,No,Ninguno
-885,M,21,9.0,Si,Ninguno,Bueno,No,Bueno
-886,M,22,7.9,No,Bueno,Regular,No,Bueno
-887,F,22,7.3,No,Bueno,Regular,No,Ninguno
-888,M,20,6.8,No,Ninguno,Bueno,No,Medio
-889,F,22,4.8,Si,Ninguno,Bueno,No,Medio
-890,M,21,7.1,Si,Bueno,Regular,Si,Bueno
-891,M,23,1.4,No,Ninguno,Regular,No,Bueno
-892,F,18,2.5,Si,Bueno,Bueno,Si,Bueno
-893,F,20,9.9,No,Medio,Regular,No,Ninguno
-894,M,22,3.6,Si,Bueno,Regular,Si,Ninguno
-895,F,23,1.6,No,Bueno,Bueno,Si,Ninguno
-896,F,22,5.6,No,Bueno,Bueno,No,Bueno
-897,F,20,2.0,Si,Medio,Regular,Si,Ninguno
-898,M,22,3.8,Si,Ninguno,Bueno,No,Bueno
-899,M,22,9.5,Si,Bueno,Bueno,No,Medio
-900,M,22,4.4,Si,Medio,Regular,Si,Bueno
-901,F,22,5.8,No,Medio,Bueno,No,Medio
-902,F,21,0.7,No,Ninguno,Bueno,No,Ninguno
-903,M,21,6.6,No,Ninguno,Regular,No,Ninguno
-904,F,21,7.8,No,Ninguno,Regular,Si,Ninguno
-905,M,22,3.3,Si,Medio,Regular,Si,Medio
-906,M,21,9.6,Si,Medio,Bueno,Si,Ninguno
-907,M,20,8.8,Si,Medio,Bueno,No,Medio
-908,M,20,4.7,Si,Ninguno,Bueno,No,Ninguno
-909,F,23,8.7,No,Ninguno,Regular,Si,Medio
-910,M,21,8.3,Si,Bueno,Regular,Si,Ninguno
-911,F,24,3.1,No,Ninguno,Bueno,No,Ninguno
-912,M,22,2.1,Si,Medio,Bueno,No,Bueno
-913,M,20,1.0,Si,Ninguno,Bueno,No,Medio
-914,M,24,4.6,No,Medio,Bueno,No,Medio
-915,M,21,6.1,No,Bueno,Regular,Si,Ninguno
-916,M,25,4.8,No,Bueno,Regular,Si,Ninguno
-917,M,23,1.5,Si,Medio,Regular,Si,Ninguno
-918,M,20,1.5,No,Bueno,Regular,Si,Bueno
-919,M,20,1.2,No,Ninguno,Bueno,Si,Medio
-920,M,22,7.8,Si,Ninguno,Bueno,No,Ninguno
-921,M,20,2.8,No,Medio,Bueno,No,Medio
-922,M,20,1.2,No,Medio,Bueno,Si,Bueno
-923,F,19,7.4,No,Bueno,Regular,No,Medio
-924,F,23,7.3,No,Bueno,Bueno,No,Medio
-925,M,21,3.5,No,Bueno,Regular,Si,Ninguno
-926,M,20,6.0,No,Bueno,Regular,No,Bueno
-927,M,20,7.4,Si,Bueno,Regular,No,Bueno
-928,M,23,8.2,Si,Ninguno,Regular,Si,Ninguno
-929,F,22,4.8,Si,Bueno,Regular,No,Ninguno
-930,M,22,8.1,No,Ninguno,Bueno,No,Ninguno
-931,F,21,4.8,No,Bueno,Regular,No,Medio
-932,M,22,2.5,Si,Ninguno,Regular,Si,Medio
-933,M,21,2.8,No,Bueno,Regular,Si,Bueno
-934,F,19,0.9,No,Bueno,Bueno,No,Bueno
-935,M,22,4.2,Si,Medio,Regular,Si,Medio
-936,M,24,5.0,Si,Medio,Regular,No,Ninguno
-937,M,23,1.3,Si,Ninguno,Bueno,No,Ninguno
-938,F,21,8.2,Si,Ninguno,Regular,Si,Bueno
-939,M,22,2.2,No,Bueno,Regular,Si,Bueno
-940,F,23,7.6,Si,Medio,Bueno,No,Ninguno
-941,F,20,5.5,No,Ninguno,Regular,Si,Bueno
-942,M,21,0.5,No,Ninguno,Bueno,No,Bueno
-943,F,22,5.0,No,Medio,Regular,Si,Bueno
-944,M,22,4.0,No,Ninguno,Bueno,No,Ninguno
-945,M,23,1.7,No,Ninguno,Regular,No,Medio
-946,F,22,3.9,Si,Medio,Bueno,Si,Medio
-947,F,22,1.4,No,Ninguno,Regular,No,Ninguno
-948,F,21,3.1,No,Ninguno,Bueno,No,Medio
-949,M,19,4.5,Si,Ninguno,Regular,No,Medio
-950,F,21,3.2,Si,Ninguno,Regular,No,Medio
-951,M,21,9.8,Si,Bueno,Regular,Si,Medio
-952,M,21,2.7,Si,Bueno,Bueno,Si,Bueno
-953,F,21,9.7,Si,Ninguno,Bueno,Si,Medio
-954,M,23,7.8,No,Ninguno,Bueno,No,Bueno
-955,M,21,3.0,No,Medio,Regular,No,Medio
-956,M,22,6.3,No,Bueno,Bueno,No,Medio
-957,M,20,0.1,Si,Bueno,Bueno,No,Bueno
-958,M,21,4.7,No,Bueno,Regular,Si,Bueno
-959,M,21,9.2,Si,Bueno,Regular,Si,Bueno
-960,M,20,1.4,No,Medio,Bueno,Si,Medio
-961,F,21,6.6,Si,Medio,Regular,No,Medio
-962,F,20,6.1,Si,Medio,Regular,No,Medio
-963,M,22,9.3,Si,Ninguno,Bueno,No,Bueno
-964,M,19,1.5,Si,Medio,Bueno,Si,Medio
-965,F,22,8.7,Si,Bueno,Bueno,No,Bueno
-966,M,20,6.1,No,Medio,Regular,Si,Bueno
-967,F,19,5.7,No,Medio,Bueno,No,Medio
-968,M,19,2.6,No,Ninguno,Regular,No,Medio
-969,M,20,5.6,No,Bueno,Regular,Si,Bueno
-970,M,22,5.3,No,Bueno,Regular,Si,Ninguno
-971,F,22,8.5,Si,Medio,Bueno,No,Ninguno
-972,M,20,5.3,No,Ninguno,Bueno,Si,Medio
-973,M,20,9.2,No,Bueno,Bueno,Si,Bueno
-974,M,21,3.4,No,Ninguno,Regular,No,Medio
-975,M,23,3.3,No,Medio,Bueno,No,Bueno
-976,M,20,7.7,Si,Ninguno,Regular,Si,Bueno
-977,M,20,4.3,No,Ninguno,Bueno,No,Ninguno
-978,M,23,5.8,Si,Medio,Bueno,No,Ninguno
-979,M,21,0.7,No,Ninguno,Regular,No,Ninguno
-980,F,22,5.0,Si,Bueno,Regular,Si,Bueno
-981,F,22,9.4,No,Ninguno,Regular,No,Bueno
-982,F,19,0.0,No,Ninguno,Regular,No,Ninguno
-983,F,19,5.5,Si,Medio,Bueno,Si,Bueno
-984,M,20,3.3,No,Bueno,Bueno,Si,Ninguno
-985,F,20,7.7,No,Bueno,Bueno,Si,Bueno
-986,M,19,6.6,Si,Medio,Regular,No,Bueno
-987,M,20,9.6,Si,Medio,Regular,No,Medio
-988,M,18,8.1,Si,Medio,Regular,Si,Bueno
-989,M,22,6.4,Si,Medio,Bueno,Si,Medio
-990,M,21,3.8,No,Ninguno,Bueno,No,Ninguno
-991,F,21,7.4,Si,Bueno,Bueno,No,Medio
-992,M,21,4.2,Si,Ninguno,Bueno,Si,Medio
-993,M,22,4.3,No,Medio,Regular,Si,Ninguno
-994,M,23,2.7,No,Bueno,Bueno,Si,Ninguno
-995,M,21,5.8,No,Medio,Regular,Si,Ninguno
-996,M,20,8.6,No,Ninguno,Regular,Si,Bueno
-997,M,21,4.4,No,Medio,Regular,No,Medio
-998,F,21,6.9,No,Bueno,Regular,No,Ninguno
-999,M,22,1.7,Si,Medio,Bueno,No,Medio
-1000,F,22,8.8,No,Ninguno,Bueno,Si,Bueno
+ID,Sexo,Edad,Promedio,ActividadesExtracurriculares,ComunicacionProfesores,ApoyoAcademico,ParticipacionTutorias,NivelSocioeconomico,Retencion
+1,0,21,7.5,No,Medio,Bueno,No,Bueno,No Abandona
+2,1,21,4.2,Si,Bueno,Regular,Si,Ninguno,No Abandona
+3,1,20,8.7,No,Ninguno,Regular,No,Bueno,No Abandona
+4,0,22,4.9,Si,Ninguno,Regular,No,Ninguno,No Abandona
+5,1,23,0.7,Si,Ninguno,Regular,No,Bueno,Abandona
+6,1,23,2.1,Si,Medio,Bueno,No,Medio,Abandona
+7,0,22,9.8,Si,Medio,Regular,No,Ninguno,No Abandona
+8,0,20,2.3,No,Ninguno,Bueno,No,Bueno,No Abandona
+9,1,21,6.8,Si,Bueno,Bueno,Si,Medio,No Abandona
+10,1,21,6.1,Si,Medio,Bueno,No,Ninguno,Abandona
+11,1,23,6.7,No,Medio,Bueno,No,Bueno,Abandona
+12,0,22,9.7,No,Bueno,Regular,No,Medio,Abandona
+13,0,21,6.5,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+14,1,19,9.1,No,Bueno,Bueno,No,Medio,No Abandona
+15,0,22,8.2,No,Ninguno,Bueno,Si,Bueno,Abandona
+16,0,21,2.0,Si,Ninguno,Regular,No,Ninguno,No Abandona
+17,1,21,9.4,No,Medio,Regular,No,Medio,No Abandona
+18,0,23,4.3,No,Medio,Regular,Si,Medio,No Abandona
+19,1,20,4.1,Si,Ninguno,Bueno,No,Medio,No Abandona
+20,0,20,1.7,Si,Medio,Bueno,Si,Bueno,Abandona
+21,0,20,6.5,No,Medio,Regular,Si,Ninguno,No Abandona
+22,1,22,7.1,Si,Bueno,Bueno,Si,Bueno,No Abandona
+23,1,22,9.4,No,Medio,Regular,Si,Bueno,Abandona
+24,1,23,3.6,No,Ninguno,Bueno,Si,Ninguno,Abandona
+25,1,22,8.1,Si,Ninguno,Regular,Si,Bueno,Abandona
+26,0,22,1.7,Si,Bueno,Bueno,No,Medio,Abandona
+27,0,21,5.7,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+28,1,21,4.4,No,Medio,Bueno,No,Bueno,Abandona
+29,0,20,9.7,No,Bueno,Regular,No,Bueno,No Abandona
+30,0,22,4.9,Si,Medio,Regular,Si,Medio,Abandona
+31,0,23,7.8,Si,Ninguno,Regular,No,Bueno,Abandona
+32,1,21,0.8,Si,Medio,Regular,Si,Bueno,Abandona
+33,0,22,9.7,No,Ninguno,Regular,No,Ninguno,No Abandona
+34,0,23,1.9,Si,Bueno,Regular,Si,Bueno,No Abandona
+35,1,23,0.7,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+36,0,21,1.3,Si,Ninguno,Regular,Si,Bueno,No Abandona
+37,1,20,9.2,Si,Medio,Regular,Si,Medio,No Abandona
+38,1,22,5.8,Si,Bueno,Regular,No,Bueno,Abandona
+39,0,22,7.8,No,Bueno,Bueno,Si,Medio,No Abandona
+40,0,21,5.9,No,Bueno,Bueno,Si,Ninguno,Abandona
+41,1,22,0.2,Si,Bueno,Bueno,No,Ninguno,No Abandona
+42,0,23,8.9,Si,Ninguno,Regular,No,Medio,No Abandona
+43,0,21,6.1,No,Ninguno,Regular,No,Ninguno,No Abandona
+44,0,21,0.2,Si,Medio,Bueno,Si,Medio,Abandona
+45,1,21,0.8,No,Ninguno,Bueno,No,Bueno,No Abandona
+46,0,20,3.8,No,Bueno,Bueno,No,Ninguno,No Abandona
+47,1,22,1.0,No,Medio,Regular,Si,Ninguno,Abandona
+48,1,21,6.7,No,Medio,Regular,Si,Bueno,No Abandona
+49,1,22,0.3,No,Medio,Regular,Si,Bueno,No Abandona
+50,0,21,5.6,No,Bueno,Bueno,Si,Bueno,No Abandona
+51,0,22,0.5,No,Bueno,Bueno,Si,Medio,No Abandona
+52,0,21,1.4,Si,Bueno,Bueno,No,Ninguno,Abandona
+53,1,21,0.3,Si,Medio,Regular,No,Ninguno,No Abandona
+54,0,19,5.3,Si,Medio,Bueno,Si,Bueno,No Abandona
+55,1,24,7.0,No,Bueno,Regular,No,Medio,No Abandona
+56,0,21,6.8,No,Bueno,Regular,Si,Medio,No Abandona
+57,0,22,6.1,No,Ninguno,Regular,No,Bueno,Abandona
+58,0,21,3.2,Si,Medio,Regular,Si,Ninguno,Abandona
+59,1,20,4.7,Si,Bueno,Regular,No,Ninguno,No Abandona
+60,0,23,2.0,Si,Medio,Bueno,Si,Medio,Abandona
+61,1,22,1.8,No,Ninguno,Bueno,No,Bueno,No Abandona
+62,0,21,3.1,No,Bueno,Bueno,Si,Bueno,Abandona
+63,1,20,7.6,Si,Ninguno,Bueno,Si,Medio,Abandona
+64,0,23,9.3,No,Medio,Regular,No,Medio,Abandona
+65,1,23,6.7,No,Ninguno,Bueno,No,Ninguno,Abandona
+66,0,23,6.5,Si,Medio,Regular,Si,Ninguno,Abandona
+67,0,21,1.1,No,Medio,Bueno,Si,Ninguno,No Abandona
+68,1,23,9.6,No,Ninguno,Regular,No,Ninguno,No Abandona
+69,0,23,5.0,Si,Medio,Regular,No,Ninguno,No Abandona
+70,0,21,6.6,No,Ninguno,Regular,No,Ninguno,No Abandona
+71,1,22,3.8,No,Medio,Regular,No,Medio,No Abandona
+72,1,23,4.8,No,Ninguno,Regular,Si,Bueno,No Abandona
+73,1,20,8.2,Si,Ninguno,Regular,Si,Bueno,No Abandona
+74,0,21,5.5,No,Ninguno,Bueno,No,Medio,Abandona
+75,0,23,9.9,Si,Bueno,Regular,No,Medio,Abandona
+76,0,23,3.1,Si,Medio,Bueno,Si,Medio,No Abandona
+77,0,22,5.4,Si,Bueno,Regular,No,Bueno,Abandona
+78,0,22,6.2,No,Medio,Bueno,Si,Medio,No Abandona
+79,1,23,8.3,No,Medio,Bueno,No,Bueno,Abandona
+80,0,22,7.6,Si,Bueno,Regular,Si,Medio,No Abandona
+81,0,20,8.2,Si,Bueno,Bueno,No,Ninguno,Abandona
+82,1,21,2.1,No,Bueno,Regular,No,Medio,Abandona
+83,0,21,2.2,No,Ninguno,Regular,No,Bueno,Abandona
+84,1,22,8.0,Si,Medio,Bueno,Si,Medio,No Abandona
+85,0,21,8.5,No,Medio,Regular,No,Bueno,Abandona
+86,0,21,8.6,No,Bueno,Regular,No,Medio,Abandona
+87,1,20,9.8,No,Medio,Regular,No,Ninguno,No Abandona
+88,0,21,7.7,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+89,1,23,6.0,Si,Bueno,Bueno,Si,Medio,No Abandona
+90,1,19,8.7,Si,Medio,Bueno,No,Medio,Abandona
+91,0,21,2.7,Si,Medio,Bueno,No,Bueno,Abandona
+92,0,24,4.0,Si,Medio,Regular,No,Ninguno,No Abandona
+93,0,22,8.4,No,Bueno,Bueno,No,Medio,Abandona
+94,0,20,5.1,Si,Bueno,Regular,Si,Medio,Abandona
+95,1,19,5.4,Si,Ninguno,Regular,Si,Medio,No Abandona
+96,1,21,7.4,Si,Ninguno,Regular,No,Ninguno,No Abandona
+97,1,23,7.2,Si,Medio,Bueno,No,Ninguno,No Abandona
+98,0,22,7.9,Si,Medio,Bueno,Si,Ninguno,No Abandona
+99,0,22,4.6,No,Bueno,Bueno,No,Medio,No Abandona
+100,0,22,4.5,No,Medio,Bueno,No,Bueno,Abandona
+101,1,22,7.0,Si,Bueno,Bueno,No,Ninguno,Abandona
+102,0,20,4.5,No,Bueno,Bueno,No,Medio,No Abandona
+103,0,22,8.5,Si,Bueno,Regular,Si,Bueno,No Abandona
+104,0,22,1.7,No,Ninguno,Regular,Si,Ninguno,No Abandona
+105,0,21,10.0,Si,Ninguno,Bueno,Si,Bueno,Abandona
+106,0,22,2.7,No,Medio,Bueno,Si,Medio,No Abandona
+107,1,20,5.6,No,Ninguno,Regular,Si,Medio,No Abandona
+108,0,23,0.5,Si,Ninguno,Bueno,No,Bueno,No Abandona
+109,0,21,0.1,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+110,1,19,2.3,No,Medio,Bueno,Si,Bueno,No Abandona
+111,1,22,3.8,Si,Ninguno,Regular,No,Ninguno,No Abandona
+112,1,21,6.8,Si,Medio,Regular,No,Ninguno,No Abandona
+113,1,21,5.4,No,Medio,Bueno,Si,Bueno,No Abandona
+114,1,21,0.3,No,Medio,Bueno,Si,Bueno,No Abandona
+115,0,22,8.0,No,Bueno,Bueno,No,Medio,No Abandona
+116,0,23,1.0,Si,Medio,Bueno,Si,Medio,No Abandona
+117,0,22,2.1,Si,Medio,Bueno,Si,Bueno,Abandona
+118,1,19,6.3,Si,Ninguno,Bueno,No,Ninguno,Abandona
+119,0,23,7.4,No,Medio,Regular,Si,Bueno,Abandona
+120,0,22,8.5,No,Ninguno,Regular,No,Ninguno,No Abandona
+121,1,23,8.1,Si,Medio,Regular,No,Medio,No Abandona
+122,0,21,6.6,No,Ninguno,Regular,No,Ninguno,No Abandona
+123,1,22,9.2,No,Medio,Regular,No,Bueno,No Abandona
+124,0,22,4.2,Si,Medio,Bueno,No,Bueno,No Abandona
+125,1,22,6.5,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+126,1,21,8.4,No,Bueno,Bueno,No,Bueno,No Abandona
+127,0,22,9.5,No,Ninguno,Bueno,Si,Bueno,Abandona
+128,1,20,6.7,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+129,0,21,8.8,Si,Bueno,Bueno,No,Ninguno,No Abandona
+130,1,23,1.9,No,Bueno,Bueno,Si,Ninguno,No Abandona
+131,0,22,9.3,No,Ninguno,Bueno,No,Ninguno,No Abandona
+132,0,19,6.4,No,Ninguno,Bueno,No,Bueno,No Abandona
+133,0,22,8.0,Si,Bueno,Regular,No,Medio,No Abandona
+134,1,22,3.6,No,Bueno,Bueno,No,Medio,Abandona
+135,0,21,0.7,Si,Medio,Regular,No,Ninguno,No Abandona
+136,1,22,5.3,No,Medio,Regular,Si,Bueno,Abandona
+137,1,22,9.4,No,Ninguno,Bueno,No,Ninguno,No Abandona
+138,0,22,2.6,Si,Ninguno,Bueno,No,Medio,Abandona
+139,0,24,1.6,Si,Ninguno,Bueno,No,Medio,No Abandona
+140,0,23,2.8,No,Bueno,Bueno,No,Medio,No Abandona
+141,0,20,2.6,Si,Medio,Bueno,No,Bueno,No Abandona
+142,1,21,6.9,Si,Medio,Regular,Si,Bueno,Abandona
+143,0,20,8.8,No,Medio,Regular,Si,Bueno,No Abandona
+144,0,20,5.0,Si,Bueno,Regular,Si,Medio,No Abandona
+145,0,22,1.6,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+146,0,22,4.3,Si,Ninguno,Regular,No,Bueno,Abandona
+147,0,21,9.5,Si,Medio,Regular,No,Medio,No Abandona
+148,0,21,8.1,No,Ninguno,Regular,No,Ninguno,No Abandona
+149,0,22,7.8,No,Ninguno,Regular,No,Ninguno,No Abandona
+150,0,22,9.2,No,Bueno,Bueno,Si,Bueno,No Abandona
+151,0,22,5.3,Si,Medio,Regular,Si,Bueno,No Abandona
+152,1,21,5.7,Si,Medio,Regular,Si,Bueno,No Abandona
+153,1,20,4.9,No,Bueno,Regular,Si,Bueno,No Abandona
+154,0,25,9.1,Si,Bueno,Regular,No,Bueno,No Abandona
+155,0,22,2.1,No,Ninguno,Bueno,No,Ninguno,No Abandona
+156,0,22,4.0,Si,Bueno,Bueno,No,Medio,No Abandona
+157,0,24,1.6,Si,Medio,Regular,Si,Bueno,Abandona
+158,0,22,7.5,Si,Bueno,Bueno,No,Medio,Abandona
+159,0,20,5.2,Si,Bueno,Regular,Si,Bueno,No Abandona
+160,0,21,2.0,No,Medio,Regular,No,Bueno,No Abandona
+161,1,22,2.6,No,Ninguno,Bueno,Si,Medio,No Abandona
+162,1,20,2.1,Si,Medio,Regular,Si,Ninguno,No Abandona
+163,0,20,1.0,No,Bueno,Regular,No,Bueno,No Abandona
+164,1,22,8.1,Si,Ninguno,Regular,No,Bueno,No Abandona
+165,0,21,8.1,Si,Bueno,Regular,Si,Bueno,No Abandona
+166,0,22,3.5,Si,Medio,Bueno,Si,Medio,Abandona
+167,0,22,0.6,No,Ninguno,Bueno,No,Bueno,No Abandona
+168,0,20,6.1,No,Bueno,Bueno,No,Ninguno,Abandona
+169,1,22,9.1,No,Ninguno,Bueno,No,Medio,Abandona
+170,0,22,7.1,No,Bueno,Bueno,Si,Medio,No Abandona
+171,0,23,1.5,Si,Ninguno,Bueno,No,Medio,No Abandona
+172,1,24,5.4,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+173,1,21,8.3,No,Bueno,Bueno,Si,Bueno,No Abandona
+174,0,20,2.9,Si,Ninguno,Regular,Si,Medio,No Abandona
+175,0,21,0.2,No,Bueno,Bueno,Si,Ninguno,No Abandona
+176,1,20,5.8,Si,Bueno,Regular,Si,Bueno,No Abandona
+177,0,21,3.5,Si,Medio,Regular,Si,Ninguno,Abandona
+178,0,23,4.0,Si,Medio,Bueno,Si,Medio,No Abandona
+179,1,21,7.7,No,Ninguno,Regular,Si,Ninguno,No Abandona
+180,0,21,8.8,No,Bueno,Regular,Si,Ninguno,No Abandona
+181,1,19,7.7,No,Bueno,Regular,No,Medio,No Abandona
+182,0,22,3.5,No,Medio,Regular,No,Bueno,No Abandona
+183,1,23,2.8,No,Bueno,Bueno,Si,Bueno,No Abandona
+184,0,22,4.2,Si,Medio,Bueno,No,Bueno,No Abandona
+185,0,23,6.8,No,Bueno,Regular,Si,Bueno,No Abandona
+186,1,22,8.5,Si,Medio,Bueno,Si,Bueno,Abandona
+187,0,22,8.4,No,Medio,Bueno,No,Bueno,No Abandona
+188,1,22,3.1,No,Bueno,Regular,Si,Bueno,No Abandona
+189,0,22,3.8,Si,Medio,Bueno,No,Ninguno,Abandona
+190,0,19,0.7,No,Medio,Regular,No,Ninguno,No Abandona
+191,1,20,5.2,Si,Bueno,Bueno,No,Bueno,No Abandona
+192,1,22,1.8,No,Bueno,Bueno,Si,Ninguno,No Abandona
+193,1,20,6.0,Si,Ninguno,Regular,Si,Bueno,Abandona
+194,1,20,9.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+195,0,23,5.5,Si,Medio,Bueno,Si,Bueno,No Abandona
+196,0,23,9.2,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+197,0,22,6.2,No,Medio,Regular,No,Medio,No Abandona
+198,1,21,7.3,Si,Bueno,Regular,Si,Bueno,No Abandona
+199,0,22,9.7,No,Bueno,Bueno,Si,Ninguno,No Abandona
+200,0,23,6.6,Si,Medio,Regular,Si,Medio,Abandona
+201,0,23,2.6,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+202,0,22,4.2,No,Ninguno,Regular,No,Medio,No Abandona
+203,0,22,8.9,No,Ninguno,Bueno,No,Medio,Abandona
+204,0,24,5.3,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+205,0,22,1.3,No,Medio,Bueno,No,Medio,Abandona
+206,0,22,9.9,No,Ninguno,Bueno,No,Medio,No Abandona
+207,0,20,6.1,Si,Bueno,Regular,Si,Bueno,Abandona
+208,0,21,8.1,No,Ninguno,Bueno,No,Bueno,Abandona
+209,0,23,3.3,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+210,1,22,5.4,Si,Bueno,Bueno,No,Ninguno,No Abandona
+211,1,21,0.6,No,Bueno,Regular,No,Medio,Abandona
+212,0,22,9.0,No,Medio,Regular,No,Medio,No Abandona
+213,0,23,9.5,No,Bueno,Bueno,No,Ninguno,No Abandona
+214,0,23,0.8,Si,Ninguno,Bueno,Si,Medio,No Abandona
+215,1,21,2.9,No,Bueno,Regular,Si,Bueno,No Abandona
+216,0,21,0.7,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+217,0,21,9.9,Si,Bueno,Bueno,No,Medio,No Abandona
+218,1,21,9.0,Si,Medio,Bueno,No,Bueno,No Abandona
+219,0,21,5.1,No,Medio,Regular,Si,Ninguno,No Abandona
+220,0,21,0.1,No,Bueno,Regular,Si,Ninguno,No Abandona
+221,1,20,1.7,Si,Medio,Regular,Si,Medio,Abandona
+222,0,22,3.3,Si,Ninguno,Regular,No,Medio,No Abandona
+223,1,22,3.4,Si,Bueno,Regular,No,Medio,No Abandona
+224,0,22,3.9,No,Bueno,Bueno,Si,Medio,No Abandona
+225,0,21,3.5,Si,Bueno,Regular,No,Bueno,Abandona
+226,1,20,9.6,No,Bueno,Regular,No,Medio,No Abandona
+227,0,22,4.3,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+228,0,20,7.6,No,Medio,Regular,Si,Medio,No Abandona
+229,0,21,6.7,No,Ninguno,Bueno,Si,Medio,No Abandona
+230,0,20,8.7,No,Ninguno,Regular,No,Ninguno,No Abandona
+231,0,21,6.0,No,Bueno,Bueno,Si,Bueno,No Abandona
+232,1,20,2.9,No,Bueno,Bueno,Si,Medio,Abandona
+233,0,21,9.0,Si,Medio,Regular,No,Bueno,No Abandona
+234,1,22,3.0,No,Bueno,Regular,Si,Ninguno,No Abandona
+235,1,21,7.5,No,Bueno,Regular,Si,Medio,No Abandona
+236,0,22,2.3,No,Bueno,Bueno,No,Bueno,No Abandona
+237,0,21,5.7,Si,Ninguno,Bueno,Si,Medio,No Abandona
+238,1,23,7.4,Si,Bueno,Regular,No,Bueno,No Abandona
+239,0,22,6.1,No,Ninguno,Regular,No,Medio,No Abandona
+240,0,22,2.4,No,Ninguno,Regular,Si,Medio,No Abandona
+241,0,22,8.7,No,Ninguno,Bueno,Si,Ninguno,Abandona
+242,0,20,9.9,No,Ninguno,Bueno,Si,Medio,No Abandona
+243,0,21,2.9,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+244,0,22,7.5,Si,Bueno,Regular,Si,Medio,No Abandona
+245,0,21,9.0,No,Medio,Regular,No,Ninguno,No Abandona
+246,1,21,9.7,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+247,0,19,6.7,No,Bueno,Bueno,No,Ninguno,No Abandona
+248,0,19,5.8,No,Medio,Regular,No,Medio,No Abandona
+249,0,21,9.4,Si,Ninguno,Regular,No,Medio,No Abandona
+250,0,21,8.4,Si,Ninguno,Regular,No,Bueno,No Abandona
+251,1,20,4.9,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+252,0,23,9.8,No,Medio,Bueno,Si,Ninguno,No Abandona
+253,1,23,9.4,No,Bueno,Regular,No,Ninguno,No Abandona
+254,0,20,6.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+255,0,22,8.8,No,Medio,Regular,No,Ninguno,Abandona
+256,1,22,2.7,No,Ninguno,Bueno,Si,Medio,Abandona
+257,1,22,1.6,Si,Ninguno,Regular,No,Medio,No Abandona
+258,0,21,1.4,Si,Medio,Bueno,No,Ninguno,Abandona
+259,1,23,0.3,Si,Ninguno,Regular,No,Ninguno,No Abandona
+260,1,20,7.1,No,Bueno,Regular,Si,Medio,Abandona
+261,0,20,4.7,Si,Medio,Regular,No,Bueno,Abandona
+262,0,23,8.7,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+263,1,22,6.7,No,Medio,Bueno,Si,Medio,No Abandona
+264,1,21,7.4,Si,Bueno,Regular,Si,Ninguno,No Abandona
+265,0,20,7.6,No,Bueno,Regular,No,Medio,Abandona
+266,1,23,3.1,No,Bueno,Bueno,Si,Medio,Abandona
+267,1,21,2.1,Si,Ninguno,Regular,No,Medio,Abandona
+268,1,20,9.9,No,Bueno,Regular,Si,Medio,No Abandona
+269,1,20,3.4,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+270,0,22,3.5,No,Ninguno,Bueno,No,Bueno,Abandona
+271,1,22,0.3,Si,Ninguno,Regular,No,Medio,No Abandona
+272,0,20,6.4,No,Medio,Regular,No,Medio,No Abandona
+273,0,21,8.2,No,Bueno,Regular,Si,Ninguno,No Abandona
+274,1,22,0.6,Si,Medio,Bueno,No,Ninguno,Abandona
+275,0,21,2.8,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+276,0,22,8.4,No,Ninguno,Regular,Si,Ninguno,Abandona
+277,1,24,6.8,Si,Ninguno,Bueno,No,Medio,Abandona
+278,1,21,7.0,Si,Medio,Bueno,Si,Ninguno,No Abandona
+279,0,24,8.4,No,Bueno,Bueno,No,Ninguno,No Abandona
+280,1,21,3.5,No,Medio,Regular,Si,Ninguno,No Abandona
+281,1,20,1.9,Si,Ninguno,Regular,No,Ninguno,Abandona
+282,0,21,4.6,Si,Medio,Bueno,No,Bueno,Abandona
+283,0,22,8.6,Si,Bueno,Bueno,Si,Medio,No Abandona
+284,0,23,2.8,Si,Medio,Bueno,Si,Medio,No Abandona
+285,1,22,7.6,Si,Ninguno,Bueno,No,Bueno,No Abandona
+286,1,20,2.8,No,Ninguno,Bueno,No,Bueno,No Abandona
+287,0,23,7.4,No,Bueno,Bueno,Si,Medio,No Abandona
+288,0,23,5.1,No,Medio,Regular,Si,Bueno,No Abandona
+289,0,20,8.0,Si,Bueno,Bueno,No,Ninguno,Abandona
+290,0,21,8.0,Si,Bueno,Regular,Si,Ninguno,No Abandona
+291,1,23,6.6,Si,Medio,Regular,No,Ninguno,Abandona
+292,1,24,8.6,No,Ninguno,Bueno,Si,Ninguno,Abandona
+293,0,21,7.6,Si,Bueno,Bueno,Si,Bueno,No Abandona
+294,0,19,1.1,No,Bueno,Regular,No,Bueno,Abandona
+295,1,21,3.7,Si,Medio,Regular,No,Bueno,No Abandona
+296,0,23,8.9,No,Medio,Bueno,Si,Medio,No Abandona
+297,1,22,6.4,No,Ninguno,Regular,Si,Ninguno,No Abandona
+298,0,22,7.4,No,Medio,Regular,Si,Bueno,No Abandona
+299,0,21,0.5,Si,Medio,Bueno,Si,Ninguno,No Abandona
+300,0,22,5.6,No,Bueno,Bueno,Si,Ninguno,Abandona
+301,0,21,8.7,Si,Ninguno,Regular,No,Bueno,No Abandona
+302,0,21,3.1,Si,Medio,Regular,Si,Bueno,No Abandona
+303,1,23,6.6,Si,Medio,Bueno,No,Ninguno,No Abandona
+304,0,21,1.4,No,Ninguno,Regular,No,Medio,No Abandona
+305,1,22,3.7,No,Bueno,Regular,Si,Bueno,No Abandona
+306,0,22,0.1,Si,Ninguno,Regular,No,Bueno,Abandona
+307,0,21,7.4,No,Bueno,Bueno,No,Medio,No Abandona
+308,0,21,3.6,No,Bueno,Regular,No,Ninguno,No Abandona
+309,0,21,4.4,No,Medio,Regular,No,Ninguno,Abandona
+310,0,21,7.0,Si,Medio,Regular,Si,Ninguno,No Abandona
+311,1,21,1.1,Si,Bueno,Regular,No,Ninguno,No Abandona
+312,1,20,1.8,No,Ninguno,Regular,No,Bueno,No Abandona
+313,0,21,7.3,No,Ninguno,Bueno,Si,Medio,No Abandona
+314,1,21,2.8,No,Bueno,Regular,Si,Ninguno,Abandona
+315,0,21,9.3,Si,Bueno,Bueno,No,Bueno,No Abandona
+316,1,23,8.8,No,Medio,Regular,Si,Medio,No Abandona
+317,0,22,5.9,No,Ninguno,Bueno,No,Ninguno,No Abandona
+318,1,22,6.0,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+319,1,21,7.7,Si,Ninguno,Regular,Si,Medio,No Abandona
+320,0,20,4.5,No,Ninguno,Bueno,No,Medio,Abandona
+321,0,21,9.2,No,Ninguno,Regular,No,Medio,Abandona
+322,0,23,7.4,No,Medio,Regular,Si,Medio,No Abandona
+323,1,21,6.9,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+324,1,22,4.0,No,Bueno,Regular,No,Ninguno,No Abandona
+325,0,24,7.9,No,Bueno,Regular,No,Medio,No Abandona
+326,1,23,1.3,No,Ninguno,Regular,No,Bueno,No Abandona
+327,0,21,4.7,Si,Bueno,Bueno,Si,Bueno,No Abandona
+328,0,24,2.9,Si,Ninguno,Bueno,No,Medio,No Abandona
+329,1,23,8.0,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+330,1,21,6.6,No,Bueno,Regular,No,Ninguno,No Abandona
+331,1,20,6.9,Si,Ninguno,Regular,No,Ninguno,No Abandona
+332,1,22,8.1,No,Medio,Regular,Si,Medio,No Abandona
+333,1,21,2.8,No,Medio,Regular,Si,Bueno,Abandona
+334,0,21,0.5,Si,Bueno,Bueno,Si,Bueno,No Abandona
+335,0,23,3.4,Si,Bueno,Bueno,No,Bueno,Abandona
+336,0,22,8.2,No,Medio,Regular,No,Medio,Abandona
+337,0,22,2.2,Si,Bueno,Bueno,Si,Medio,No Abandona
+338,1,23,9.1,Si,Bueno,Regular,Si,Ninguno,No Abandona
+339,0,22,8.3,No,Medio,Bueno,No,Ninguno,No Abandona
+340,0,20,6.7,No,Bueno,Bueno,No,Bueno,Abandona
+341,0,20,0.3,No,Bueno,Bueno,No,Medio,No Abandona
+342,1,20,2.5,No,Bueno,Regular,No,Ninguno,Abandona
+343,1,20,4.5,Si,Medio,Bueno,Si,Bueno,No Abandona
+344,1,21,5.3,Si,Medio,Bueno,No,Bueno,No Abandona
+345,1,24,1.0,No,Bueno,Bueno,No,Bueno,No Abandona
+346,0,24,5.6,Si,Bueno,Regular,Si,Bueno,Abandona
+347,1,21,7.9,Si,Bueno,Bueno,No,Bueno,Abandona
+348,0,20,0.5,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+349,0,20,1.3,Si,Medio,Bueno,No,Medio,Abandona
+350,1,22,7.8,Si,Bueno,Regular,Si,Ninguno,No Abandona
+351,1,23,5.2,No,Medio,Bueno,Si,Ninguno,No Abandona
+352,0,21,0.5,Si,Ninguno,Bueno,No,Bueno,Abandona
+353,0,22,0.4,Si,Ninguno,Bueno,Si,Bueno,Abandona
+354,0,23,1.7,Si,Medio,Regular,Si,Medio,No Abandona
+355,1,21,7.3,No,Ninguno,Bueno,No,Ninguno,No Abandona
+356,1,22,2.0,No,Medio,Regular,Si,Medio,Abandona
+357,0,20,1.3,No,Ninguno,Regular,Si,Medio,No Abandona
+358,1,22,4.0,No,Medio,Regular,Si,Medio,No Abandona
+359,0,22,2.1,Si,Medio,Regular,No,Ninguno,No Abandona
+360,0,21,7.1,No,Medio,Regular,No,Bueno,Abandona
+361,0,21,5.6,Si,Medio,Bueno,No,Medio,No Abandona
+362,1,21,2.9,No,Bueno,Regular,No,Ninguno,Abandona
+363,0,21,4.3,No,Medio,Regular,No,Medio,No Abandona
+364,1,22,0.1,Si,Ninguno,Regular,Si,Bueno,Abandona
+365,1,24,8.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+366,0,20,7.7,Si,Bueno,Bueno,Si,Medio,No Abandona
+367,0,21,9.5,No,Medio,Regular,No,Ninguno,No Abandona
+368,1,22,3.5,No,Bueno,Bueno,Si,Medio,No Abandona
+369,0,21,9.4,Si,Ninguno,Bueno,Si,Bueno,Abandona
+370,1,22,6.8,No,Medio,Bueno,Si,Bueno,Abandona
+371,0,21,0.1,Si,Bueno,Regular,No,Bueno,No Abandona
+372,0,21,7.9,No,Medio,Regular,No,Ninguno,No Abandona
+373,0,22,5.8,No,Bueno,Bueno,Si,Bueno,Abandona
+374,0,22,2.8,No,Bueno,Regular,No,Medio,No Abandona
+375,1,19,7.5,No,Bueno,Bueno,No,Medio,No Abandona
+376,1,21,5.1,No,Bueno,Regular,No,Medio,Abandona
+377,1,22,9.0,Si,Medio,Regular,No,Ninguno,No Abandona
+378,1,21,9.8,No,Medio,Bueno,Si,Ninguno,No Abandona
+379,1,22,4.3,No,Ninguno,Regular,No,Bueno,No Abandona
+380,1,22,6.5,Si,Bueno,Regular,No,Medio,No Abandona
+381,1,21,3.9,Si,Medio,Regular,Si,Bueno,No Abandona
+382,0,18,6.3,No,Ninguno,Regular,No,Ninguno,Abandona
+383,0,22,0.4,No,Medio,Bueno,Si,Ninguno,No Abandona
+384,0,21,7.5,Si,Bueno,Regular,No,Bueno,No Abandona
+385,0,20,5.6,Si,Bueno,Bueno,No,Ninguno,No Abandona
+386,0,22,6.4,Si,Bueno,Regular,Si,Medio,No Abandona
+387,1,20,2.7,No,Ninguno,Bueno,No,Medio,No Abandona
+388,1,22,6.8,Si,Medio,Bueno,No,Ninguno,No Abandona
+389,0,21,2.4,No,Ninguno,Bueno,No,Bueno,Abandona
+390,1,20,9.2,No,Bueno,Bueno,No,Ninguno,No Abandona
+391,1,21,3.3,Si,Bueno,Bueno,No,Medio,No Abandona
+392,1,21,6.1,Si,Medio,Regular,No,Bueno,No Abandona
+393,1,20,5.7,Si,Ninguno,Regular,No,Ninguno,No Abandona
+394,0,21,8.8,No,Medio,Bueno,No,Medio,Abandona
+395,0,21,6.0,No,Ninguno,Regular,Si,Ninguno,No Abandona
+396,0,20,0.2,No,Medio,Bueno,Si,Medio,No Abandona
+397,0,21,3.4,No,Medio,Bueno,Si,Medio,No Abandona
+398,1,22,8.2,No,Medio,Regular,No,Medio,No Abandona
+399,1,21,5.0,No,Medio,Bueno,No,Bueno,No Abandona
+400,0,22,7.9,No,Medio,Bueno,No,Bueno,Abandona
+401,0,21,1.6,Si,Medio,Bueno,Si,Bueno,No Abandona
+402,0,21,0.2,No,Ninguno,Regular,Si,Medio,Abandona
+403,0,22,6.0,Si,Ninguno,Bueno,Si,Medio,No Abandona
+404,0,21,4.3,No,Medio,Bueno,No,Medio,No Abandona
+405,1,21,9.0,Si,Bueno,Regular,No,Ninguno,No Abandona
+406,0,23,5.0,No,Ninguno,Bueno,Si,Medio,No Abandona
+407,0,22,4.5,No,Medio,Bueno,Si,Bueno,No Abandona
+408,1,23,6.5,No,Ninguno,Regular,No,Ninguno,Abandona
+409,0,20,8.1,Si,Ninguno,Bueno,No,Medio,No Abandona
+410,0,23,8.8,No,Medio,Regular,Si,Medio,No Abandona
+411,0,20,3.5,No,Medio,Regular,Si,Ninguno,No Abandona
+412,0,21,2.0,Si,Ninguno,Bueno,No,Ninguno,Abandona
+413,1,24,5.6,No,Bueno,Bueno,Si,Bueno,No Abandona
+414,0,21,1.5,No,Medio,Bueno,Si,Medio,No Abandona
+415,1,21,8.7,No,Medio,Regular,Si,Ninguno,Abandona
+416,0,22,4.9,Si,Bueno,Bueno,Si,Ninguno,Abandona
+417,0,21,2.6,Si,Ninguno,Bueno,No,Bueno,Abandona
+418,1,22,9.5,No,Ninguno,Regular,Si,Medio,No Abandona
+419,1,23,1.1,Si,Medio,Regular,No,Ninguno,No Abandona
+420,1,20,3.9,No,Medio,Regular,No,Bueno,No Abandona
+421,1,22,0.0,Si,Bueno,Regular,No,Medio,No Abandona
+422,0,20,5.2,Si,Ninguno,Regular,No,Ninguno,No Abandona
+423,1,21,1.5,No,Bueno,Regular,Si,Bueno,No Abandona
+424,1,19,9.4,No,Ninguno,Regular,Si,Bueno,Abandona
+425,0,22,4.4,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+426,1,23,4.8,Si,Bueno,Regular,No,Bueno,No Abandona
+427,0,23,2.6,Si,Ninguno,Regular,Si,Medio,No Abandona
+428,0,22,3.7,No,Bueno,Bueno,Si,Ninguno,No Abandona
+429,0,20,3.7,No,Medio,Bueno,Si,Ninguno,No Abandona
+430,0,22,0.3,No,Bueno,Regular,No,Bueno,No Abandona
+431,0,22,7.1,No,Ninguno,Bueno,No,Ninguno,Abandona
+432,0,22,8.0,No,Medio,Bueno,No,Medio,No Abandona
+433,1,22,4.5,Si,Bueno,Regular,Si,Ninguno,No Abandona
+434,1,22,6.3,Si,Medio,Bueno,No,Bueno,Abandona
+435,0,22,5.7,No,Ninguno,Regular,No,Bueno,No Abandona
+436,1,22,8.0,No,Ninguno,Bueno,Si,Bueno,No Abandona
+437,0,22,8.8,Si,Medio,Regular,No,Medio,Abandona
+438,0,21,1.5,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+439,1,23,7.7,No,Medio,Bueno,No,Bueno,No Abandona
+440,1,22,9.0,Si,Bueno,Regular,No,Ninguno,No Abandona
+441,0,19,0.3,No,Bueno,Bueno,No,Bueno,No Abandona
+442,1,20,9.8,No,Medio,Regular,Si,Bueno,No Abandona
+443,0,20,9.5,Si,Medio,Bueno,No,Medio,No Abandona
+444,1,22,1.4,No,Ninguno,Bueno,Si,Medio,No Abandona
+445,1,21,3.3,Si,Medio,Regular,Si,Bueno,No Abandona
+446,0,20,6.4,No,Medio,Bueno,No,Medio,No Abandona
+447,1,22,9.9,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+448,1,22,4.1,Si,Medio,Bueno,Si,Ninguno,No Abandona
+449,0,21,7.8,Si,Bueno,Bueno,Si,Medio,No Abandona
+450,1,21,7.9,No,Bueno,Regular,No,Bueno,No Abandona
+451,0,23,7.1,No,Bueno,Regular,Si,Bueno,No Abandona
+452,0,21,8.7,No,Bueno,Bueno,Si,Ninguno,No Abandona
+453,1,22,0.9,Si,Medio,Regular,Si,Ninguno,Abandona
+454,0,20,5.6,Si,Medio,Bueno,Si,Ninguno,Abandona
+455,0,23,7.1,Si,Bueno,Regular,Si,Bueno,No Abandona
+456,1,22,2.6,No,Ninguno,Bueno,No,Bueno,No Abandona
+457,0,20,9.9,No,Ninguno,Bueno,No,Ninguno,Abandona
+458,0,23,3.5,No,Medio,Bueno,No,Medio,No Abandona
+459,1,21,1.4,Si,Bueno,Bueno,Si,Medio,No Abandona
+460,0,23,7.7,Si,Medio,Regular,No,Medio,No Abandona
+461,0,21,9.4,No,Bueno,Regular,No,Medio,No Abandona
+462,1,21,9.7,No,Bueno,Regular,No,Ninguno,No Abandona
+463,0,23,6.5,Si,Ninguno,Bueno,No,Bueno,Abandona
+464,0,22,0.0,Si,Bueno,Bueno,Si,Ninguno,Abandona
+465,1,22,1.4,No,Medio,Regular,Si,Ninguno,No Abandona
+466,1,21,1.4,No,Ninguno,Regular,No,Bueno,Abandona
+467,0,22,8.8,No,Ninguno,Bueno,No,Bueno,Abandona
+468,1,23,6.6,No,Medio,Bueno,Si,Ninguno,No Abandona
+469,1,23,2.5,No,Bueno,Bueno,Si,Ninguno,No Abandona
+470,1,21,4.8,Si,Bueno,Regular,No,Medio,No Abandona
+471,0,22,4.6,No,Medio,Bueno,No,Medio,Abandona
+472,1,22,5.2,No,Bueno,Regular,Si,Bueno,No Abandona
+473,0,19,9.4,No,Medio,Bueno,Si,Bueno,Abandona
+474,0,22,1.8,No,Ninguno,Regular,Si,Ninguno,No Abandona
+475,0,20,2.0,No,Medio,Regular,Si,Medio,No Abandona
+476,1,21,0.3,No,Ninguno,Regular,Si,Bueno,Abandona
+477,1,22,2.0,No,Bueno,Bueno,No,Bueno,Abandona
+478,0,23,2.5,No,Medio,Regular,No,Bueno,No Abandona
+479,1,23,8.5,No,Bueno,Regular,No,Ninguno,No Abandona
+480,1,21,2.4,Si,Bueno,Bueno,No,Medio,Abandona
+481,1,22,1.9,No,Ninguno,Regular,No,Bueno,No Abandona
+482,0,23,8.9,Si,Medio,Bueno,No,Bueno,No Abandona
+483,1,22,3.6,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+484,0,22,7.6,No,Medio,Regular,No,Ninguno,No Abandona
+485,0,21,9.4,Si,Bueno,Bueno,No,Medio,No Abandona
+486,1,20,5.0,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+487,0,21,3.8,Si,Bueno,Bueno,Si,Bueno,Abandona
+488,0,20,5.4,No,Ninguno,Regular,Si,Bueno,No Abandona
+489,0,20,0.6,Si,Medio,Regular,No,Ninguno,No Abandona
+490,0,21,8.0,No,Ninguno,Bueno,Si,Medio,No Abandona
+491,1,20,2.6,No,Medio,Bueno,No,Medio,No Abandona
+492,0,18,8.1,Si,Medio,Bueno,Si,Bueno,No Abandona
+493,0,23,7.4,No,Medio,Regular,No,Bueno,No Abandona
+494,1,22,5.5,No,Bueno,Bueno,Si,Bueno,No Abandona
+495,0,20,1.7,No,Ninguno,Regular,Si,Ninguno,No Abandona
+496,1,21,10.0,Si,Bueno,Bueno,Si,Medio,No Abandona
+497,1,21,3.3,No,Medio,Bueno,No,Bueno,Abandona
+498,0,22,4.0,Si,Bueno,Regular,Si,Bueno,No Abandona
+499,0,24,5.6,Si,Medio,Regular,Si,Ninguno,No Abandona
+500,1,22,7.7,Si,Medio,Bueno,No,Ninguno,Abandona
+501,1,22,1.4,No,Ninguno,Bueno,No,Medio,No Abandona
+502,0,21,1.5,No,Ninguno,Regular,Si,Medio,Abandona
+503,0,21,5.6,No,Bueno,Regular,No,Ninguno,No Abandona
+504,0,21,5.4,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+505,0,23,8.2,Si,Bueno,Regular,Si,Ninguno,No Abandona
+506,0,21,4.7,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+507,0,21,6.7,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+508,0,22,6.0,Si,Medio,Regular,No,Medio,Abandona
+509,1,23,9.8,No,Bueno,Regular,No,Bueno,Abandona
+510,0,22,8.0,Si,Medio,Regular,No,Medio,No Abandona
+511,0,20,9.1,Si,Bueno,Regular,Si,Ninguno,No Abandona
+512,0,21,1.8,Si,Ninguno,Bueno,Si,Medio,No Abandona
+513,0,19,3.8,Si,Medio,Bueno,No,Medio,No Abandona
+514,1,21,7.4,Si,Bueno,Bueno,No,Bueno,No Abandona
+515,1,23,1.4,No,Medio,Regular,Si,Medio,Abandona
+516,1,21,4.3,Si,Medio,Bueno,Si,Medio,No Abandona
+517,0,21,9.2,No,Medio,Regular,No,Bueno,Abandona
+518,0,21,2.4,No,Medio,Regular,Si,Bueno,No Abandona
+519,0,24,7.2,No,Bueno,Bueno,No,Bueno,No Abandona
+520,0,23,8.3,No,Ninguno,Bueno,Si,Bueno,No Abandona
+521,0,21,4.0,Si,Ninguno,Bueno,No,Bueno,Abandona
+522,0,22,6.4,Si,Bueno,Regular,No,Ninguno,No Abandona
+523,1,22,5.2,Si,Bueno,Bueno,No,Bueno,No Abandona
+524,1,22,0.6,No,Bueno,Bueno,No,Ninguno,No Abandona
+525,0,22,2.0,No,Bueno,Bueno,No,Ninguno,No Abandona
+526,1,22,7.7,No,Ninguno,Regular,Si,Medio,Abandona
+527,1,20,0.5,No,Bueno,Bueno,Si,Medio,No Abandona
+528,0,20,3.4,Si,Ninguno,Regular,No,Ninguno,No Abandona
+529,1,22,0.4,No,Medio,Bueno,Si,Ninguno,Abandona
+530,0,21,3.3,No,Bueno,Regular,Si,Ninguno,Abandona
+531,1,19,8.4,Si,Medio,Regular,Si,Medio,Abandona
+532,0,22,3.8,Si,Bueno,Regular,Si,Bueno,No Abandona
+533,0,21,9.6,Si,Bueno,Bueno,Si,Bueno,No Abandona
+534,1,22,7.2,No,Medio,Bueno,Si,Ninguno,No Abandona
+535,1,23,8.7,No,Ninguno,Regular,Si,Ninguno,No Abandona
+536,0,22,9.3,Si,Bueno,Bueno,Si,Bueno,Abandona
+537,0,20,8.8,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+538,1,20,1.2,No,Medio,Regular,Si,Ninguno,No Abandona
+539,1,22,7.3,No,Bueno,Bueno,Si,Bueno,No Abandona
+540,0,23,7.7,Si,Bueno,Regular,Si,Ninguno,No Abandona
+541,0,22,2.8,Si,Ninguno,Bueno,Si,Medio,No Abandona
+542,1,22,5.2,Si,Bueno,Bueno,No,Ninguno,Abandona
+543,0,21,9.8,No,Medio,Regular,No,Bueno,No Abandona
+544,0,19,7.7,No,Bueno,Bueno,No,Medio,No Abandona
+545,1,20,6.4,Si,Medio,Bueno,Si,Medio,Abandona
+546,0,19,3.9,No,Ninguno,Bueno,Si,Medio,No Abandona
+547,1,24,9.3,No,Ninguno,Bueno,Si,Medio,No Abandona
+548,0,21,6.4,Si,Medio,Regular,Si,Medio,No Abandona
+549,0,21,0.3,Si,Medio,Regular,No,Bueno,Abandona
+550,1,22,1.0,No,Bueno,Regular,Si,Medio,No Abandona
+551,0,22,4.4,No,Ninguno,Regular,No,Bueno,No Abandona
+552,1,20,9.6,No,Ninguno,Bueno,Si,Bueno,Abandona
+553,1,22,9.7,Si,Bueno,Regular,No,Medio,No Abandona
+554,1,21,2.5,No,Ninguno,Bueno,Si,Medio,No Abandona
+555,1,19,2.2,No,Medio,Regular,Si,Medio,No Abandona
+556,0,22,0.7,Si,Medio,Bueno,Si,Bueno,No Abandona
+557,0,22,7.4,No,Bueno,Regular,Si,Medio,Abandona
+558,1,23,0.0,No,Bueno,Bueno,Si,Bueno,No Abandona
+559,1,21,8.9,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+560,1,23,3.3,Si,Ninguno,Regular,No,Medio,No Abandona
+561,0,22,7.2,Si,Ninguno,Regular,Si,Medio,No Abandona
+562,0,19,2.9,Si,Bueno,Regular,No,Ninguno,No Abandona
+563,1,22,1.9,Si,Bueno,Bueno,No,Bueno,No Abandona
+564,1,19,1.8,No,Medio,Regular,Si,Medio,No Abandona
+565,1,21,1.5,No,Medio,Bueno,Si,Medio,No Abandona
+566,0,20,5.9,Si,Bueno,Regular,No,Medio,No Abandona
+567,1,22,4.0,No,Bueno,Regular,No,Bueno,No Abandona
+568,0,20,0.3,No,Medio,Bueno,Si,Bueno,No Abandona
+569,1,21,2.7,Si,Bueno,Regular,Si,Ninguno,Abandona
+570,0,23,0.9,Si,Ninguno,Bueno,No,Medio,Abandona
+571,1,21,3.1,No,Ninguno,Regular,No,Ninguno,No Abandona
+572,0,23,3.5,No,Medio,Regular,No,Medio,Abandona
+573,1,22,1.8,No,Bueno,Regular,Si,Bueno,No Abandona
+574,1,21,3.5,No,Medio,Regular,Si,Medio,Abandona
+575,1,20,4.2,No,Bueno,Bueno,No,Medio,Abandona
+576,0,21,3.9,No,Ninguno,Bueno,Si,Medio,No Abandona
+577,1,21,9.9,No,Medio,Bueno,Si,Bueno,No Abandona
+578,0,21,0.8,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+579,0,22,1.1,Si,Ninguno,Regular,No,Bueno,No Abandona
+580,0,23,2.7,No,Bueno,Regular,No,Ninguno,No Abandona
+581,0,24,8.3,Si,Ninguno,Regular,Si,Ninguno,Abandona
+582,1,22,6.9,Si,Bueno,Bueno,No,Bueno,Abandona
+583,0,22,1.9,Si,Bueno,Bueno,No,Bueno,Abandona
+584,0,21,9.0,Si,Bueno,Regular,No,Ninguno,No Abandona
+585,0,21,1.7,No,Bueno,Regular,No,Bueno,No Abandona
+586,0,22,7.6,No,Medio,Regular,Si,Medio,No Abandona
+587,0,22,8.4,No,Medio,Regular,Si,Bueno,No Abandona
+588,1,23,0.4,Si,Bueno,Bueno,Si,Medio,No Abandona
+589,0,20,4.2,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+590,1,21,8.9,Si,Ninguno,Bueno,No,Bueno,No Abandona
+591,1,23,5.1,Si,Bueno,Regular,Si,Bueno,No Abandona
+592,1,22,1.5,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+593,1,18,1.7,No,Ninguno,Regular,No,Medio,No Abandona
+594,0,22,7.3,No,Bueno,Bueno,No,Medio,No Abandona
+595,1,20,1.5,No,Bueno,Bueno,No,Ninguno,No Abandona
+596,0,22,1.2,Si,Bueno,Bueno,No,Medio,No Abandona
+597,0,21,2.7,No,Ninguno,Bueno,No,Ninguno,No Abandona
+598,0,22,9.3,No,Bueno,Bueno,Si,Bueno,Abandona
+599,0,21,1.7,Si,Ninguno,Bueno,No,Medio,Abandona
+600,0,22,7.1,No,Ninguno,Regular,Si,Bueno,No Abandona
+601,0,21,4.9,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+602,1,22,5.9,Si,Bueno,Regular,No,Medio,No Abandona
+603,0,23,5.9,No,Bueno,Bueno,Si,Ninguno,Abandona
+604,0,22,5.3,Si,Bueno,Regular,Si,Medio,No Abandona
+605,0,23,5.9,Si,Ninguno,Bueno,No,Medio,No Abandona
+606,1,23,9.4,No,Ninguno,Regular,No,Bueno,Abandona
+607,0,23,2.4,Si,Medio,Bueno,No,Bueno,Abandona
+608,0,21,1.8,No,Medio,Regular,Si,Medio,No Abandona
+609,0,23,3.0,Si,Bueno,Bueno,No,Medio,No Abandona
+610,0,21,4.4,No,Bueno,Regular,No,Ninguno,No Abandona
+611,0,21,8.7,No,Bueno,Regular,Si,Bueno,No Abandona
+612,1,21,1.4,Si,Medio,Regular,No,Bueno,Abandona
+613,1,22,8.2,No,Ninguno,Bueno,No,Bueno,No Abandona
+614,0,20,9.5,No,Ninguno,Regular,Si,Medio,No Abandona
+615,0,23,9.6,Si,Ninguno,Regular,Si,Medio,No Abandona
+616,0,21,5.5,No,Bueno,Regular,Si,Ninguno,No Abandona
+617,0,20,8.0,No,Medio,Bueno,No,Ninguno,No Abandona
+618,1,22,5.1,Si,Bueno,Regular,No,Bueno,Abandona
+619,1,22,2.5,No,Bueno,Bueno,No,Ninguno,No Abandona
+620,1,22,8.9,No,Medio,Regular,Si,Medio,Abandona
+621,1,22,8.9,No,Medio,Bueno,No,Ninguno,No Abandona
+622,0,23,8.2,Si,Medio,Regular,Si,Ninguno,No Abandona
+623,0,22,0.5,No,Bueno,Regular,Si,Bueno,No Abandona
+624,0,20,9.5,Si,Medio,Regular,Si,Ninguno,No Abandona
+625,0,24,0.1,No,Medio,Bueno,No,Medio,No Abandona
+626,0,21,8.4,No,Bueno,Regular,No,Medio,Abandona
+627,0,22,5.5,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+628,1,20,8.5,No,Bueno,Regular,No,Medio,No Abandona
+629,0,22,0.4,Si,Medio,Regular,No,Medio,No Abandona
+630,1,21,6.2,Si,Ninguno,Regular,No,Medio,No Abandona
+631,1,22,1.7,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+632,0,24,3.8,Si,Medio,Regular,Si,Bueno,No Abandona
+633,0,20,2.3,Si,Bueno,Regular,Si,Bueno,No Abandona
+634,0,21,4.3,No,Ninguno,Bueno,No,Bueno,No Abandona
+635,0,22,4.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+636,0,21,3.9,Si,Ninguno,Bueno,No,Medio,No Abandona
+637,0,21,0.8,Si,Bueno,Regular,Si,Ninguno,No Abandona
+638,0,21,3.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+639,0,22,0.7,Si,Ninguno,Bueno,No,Medio,Abandona
+640,0,21,10.0,No,Medio,Bueno,No,Ninguno,Abandona
+641,1,22,5.2,Si,Bueno,Bueno,No,Bueno,No Abandona
+642,0,22,0.9,No,Ninguno,Regular,Si,Bueno,No Abandona
+643,1,22,9.5,No,Bueno,Regular,No,Ninguno,No Abandona
+644,1,21,8.1,No,Ninguno,Regular,No,Ninguno,No Abandona
+645,0,21,1.1,Si,Ninguno,Regular,No,Ninguno,No Abandona
+646,0,22,2.6,No,Bueno,Regular,No,Medio,No Abandona
+647,1,23,5.1,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+648,1,21,9.4,No,Bueno,Bueno,Si,Bueno,No Abandona
+649,0,22,5.5,Si,Ninguno,Regular,No,Medio,No Abandona
+650,0,22,3.1,No,Bueno,Bueno,No,Bueno,No Abandona
+651,1,22,8.3,No,Ninguno,Bueno,Si,Bueno,No Abandona
+652,0,22,3.0,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+653,0,25,0.9,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+654,1,22,3.1,No,Bueno,Regular,No,Ninguno,No Abandona
+655,0,21,8.6,No,Bueno,Regular,Si,Bueno,No Abandona
+656,0,21,8.0,No,Medio,Regular,Si,Medio,No Abandona
+657,0,23,1.0,Si,Ninguno,Regular,Si,Medio,Abandona
+658,0,21,6.6,Si,Bueno,Regular,Si,Ninguno,No Abandona
+659,0,20,1.3,No,Medio,Bueno,Si,Medio,Abandona
+660,0,22,7.4,No,Medio,Regular,No,Medio,Abandona
+661,1,22,1.4,Si,Ninguno,Bueno,No,Medio,No Abandona
+662,1,23,6.6,Si,Medio,Regular,No,Bueno,No Abandona
+663,1,22,1.6,Si,Ninguno,Bueno,Si,Bueno,Abandona
+664,0,21,1.7,No,Bueno,Regular,Si,Bueno,No Abandona
+665,0,20,5.6,Si,Ninguno,Regular,No,Ninguno,Abandona
+666,1,22,5.7,Si,Medio,Regular,Si,Bueno,No Abandona
+667,1,21,8.1,No,Ninguno,Bueno,Si,Medio,No Abandona
+668,0,22,2.5,No,Ninguno,Regular,Si,Bueno,No Abandona
+669,0,22,5.7,No,Medio,Regular,Si,Medio,Abandona
+670,1,21,5.4,Si,Ninguno,Regular,Si,Ninguno,Abandona
+671,0,22,7.1,Si,Medio,Bueno,No,Medio,No Abandona
+672,0,21,9.4,No,Bueno,Regular,No,Medio,No Abandona
+673,0,20,1.0,Si,Ninguno,Regular,Si,Bueno,No Abandona
+674,0,21,7.8,Si,Ninguno,Bueno,No,Bueno,No Abandona
+675,1,22,1.2,Si,Bueno,Bueno,Si,Bueno,Abandona
+676,0,21,9.9,Si,Medio,Bueno,No,Medio,No Abandona
+677,1,22,0.6,Si,Medio,Bueno,No,Bueno,No Abandona
+678,0,21,8.7,Si,Medio,Bueno,Si,Bueno,No Abandona
+679,1,19,2.5,Si,Ninguno,Bueno,Si,Medio,No Abandona
+680,1,19,5.0,No,Bueno,Bueno,Si,Bueno,No Abandona
+681,1,24,1.4,No,Bueno,Bueno,No,Medio,No Abandona
+682,0,21,7.2,Si,Medio,Regular,No,Bueno,No Abandona
+683,0,21,1.2,No,Bueno,Regular,No,Bueno,No Abandona
+684,0,23,4.8,Si,Bueno,Regular,Si,Ninguno,No Abandona
+685,1,21,0.6,No,Ninguno,Bueno,Si,Medio,No Abandona
+686,0,23,0.9,No,Bueno,Regular,Si,Ninguno,No Abandona
+687,1,22,7.4,Si,Ninguno,Regular,No,Ninguno,No Abandona
+688,0,21,3.3,No,Ninguno,Bueno,Si,Bueno,No Abandona
+689,1,24,8.4,No,Medio,Regular,No,Ninguno,No Abandona
+690,1,21,5.7,No,Bueno,Regular,Si,Bueno,No Abandona
+691,1,22,2.6,No,Bueno,Bueno,Si,Medio,No Abandona
+692,1,22,0.9,Si,Medio,Regular,Si,Ninguno,No Abandona
+693,0,21,7.4,Si,Ninguno,Bueno,No,Medio,No Abandona
+694,1,20,5.2,Si,Ninguno,Regular,Si,Bueno,No Abandona
+695,0,20,2.9,No,Bueno,Bueno,Si,Medio,Abandona
+696,1,21,4.1,No,Medio,Regular,No,Medio,Abandona
+697,1,21,2.3,No,Ninguno,Regular,No,Medio,No Abandona
+698,0,21,1.4,No,Bueno,Regular,Si,Bueno,No Abandona
+699,0,21,2.7,Si,Medio,Bueno,No,Ninguno,No Abandona
+700,0,23,7.1,No,Ninguno,Regular,Si,Bueno,Abandona
+701,0,22,3.9,No,Medio,Bueno,Si,Medio,No Abandona
+702,0,22,7.2,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+703,0,21,2.5,No,Bueno,Bueno,Si,Medio,No Abandona
+704,1,19,6.8,No,Medio,Regular,No,Bueno,No Abandona
+705,0,20,0.5,Si,Medio,Regular,No,Ninguno,No Abandona
+706,1,22,5.2,No,Medio,Bueno,Si,Bueno,No Abandona
+707,1,20,5.2,Si,Ninguno,Regular,Si,Medio,Abandona
+708,0,21,0.6,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+709,0,24,1.3,No,Medio,Regular,No,Ninguno,No Abandona
+710,0,21,7.5,No,Medio,Regular,Si,Ninguno,No Abandona
+711,1,22,9.1,No,Medio,Regular,Si,Medio,No Abandona
+712,1,20,9.0,No,Ninguno,Bueno,Si,Medio,Abandona
+713,0,22,1.6,Si,Medio,Regular,Si,Bueno,No Abandona
+714,0,22,6.4,No,Medio,Bueno,Si,Ninguno,Abandona
+715,1,24,0.9,Si,Bueno,Bueno,Si,Medio,No Abandona
+716,0,22,3.9,Si,Ninguno,Bueno,No,Medio,No Abandona
+717,0,20,8.6,Si,Ninguno,Bueno,No,Bueno,No Abandona
+718,1,23,2.1,Si,Ninguno,Regular,No,Bueno,No Abandona
+719,1,22,7.8,No,Bueno,Regular,Si,Ninguno,Abandona
+720,1,20,3.0,Si,Ninguno,Regular,No,Bueno,No Abandona
+721,0,22,4.7,No,Ninguno,Regular,No,Ninguno,No Abandona
+722,0,22,1.9,Si,Bueno,Regular,No,Medio,No Abandona
+723,1,20,0.7,No,Bueno,Bueno,Si,Ninguno,No Abandona
+724,1,21,7.1,No,Medio,Bueno,Si,Ninguno,Abandona
+725,0,21,7.7,Si,Medio,Regular,Si,Bueno,No Abandona
+726,0,22,7.9,Si,Ninguno,Regular,Si,Medio,No Abandona
+727,0,21,8.9,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+728,1,22,7.5,Si,Bueno,Regular,Si,Bueno,No Abandona
+729,1,21,2.4,No,Medio,Regular,No,Ninguno,No Abandona
+730,1,22,9.1,Si,Bueno,Regular,No,Ninguno,No Abandona
+731,1,23,4.2,Si,Ninguno,Regular,Si,Ninguno,Abandona
+732,1,21,4.1,No,Ninguno,Regular,Si,Bueno,No Abandona
+733,1,23,7.8,No,Medio,Bueno,Si,Medio,No Abandona
+734,0,21,1.4,Si,Medio,Regular,Si,Bueno,No Abandona
+735,0,24,5.9,No,Ninguno,Regular,Si,Bueno,No Abandona
+736,1,22,7.2,Si,Medio,Regular,No,Bueno,No Abandona
+737,1,22,1.6,Si,Medio,Regular,No,Ninguno,No Abandona
+738,0,22,4.7,No,Bueno,Regular,No,Ninguno,No Abandona
+739,0,21,3.0,Si,Bueno,Bueno,Si,Bueno,No Abandona
+740,1,23,9.0,No,Medio,Regular,Si,Bueno,No Abandona
+741,0,22,8.2,Si,Bueno,Bueno,Si,Ninguno,Abandona
+742,0,22,7.6,No,Medio,Bueno,No,Ninguno,No Abandona
+743,0,22,0.4,Si,Bueno,Regular,Si,Medio,No Abandona
+744,0,23,9.1,Si,Bueno,Regular,No,Ninguno,No Abandona
+745,0,22,6.6,No,Medio,Bueno,Si,Medio,No Abandona
+746,0,21,6.8,Si,Bueno,Regular,Si,Bueno,No Abandona
+747,0,24,6.6,No,Medio,Bueno,Si,Bueno,No Abandona
+748,1,21,3.8,Si,Ninguno,Regular,No,Ninguno,No Abandona
+749,0,21,0.4,No,Ninguno,Bueno,No,Medio,No Abandona
+750,1,21,1.5,Si,Medio,Regular,No,Bueno,No Abandona
+751,1,21,9.5,No,Ninguno,Regular,No,Medio,No Abandona
+752,1,21,5.7,No,Ninguno,Bueno,Si,Ninguno,Abandona
+753,0,21,8.9,No,Ninguno,Regular,No,Bueno,No Abandona
+754,0,21,4.1,No,Ninguno,Bueno,No,Bueno,Abandona
+755,0,21,7.0,No,Bueno,Bueno,Si,Medio,No Abandona
+756,0,23,5.3,Si,Ninguno,Bueno,Si,Medio,No Abandona
+757,0,22,6.2,Si,Medio,Regular,No,Bueno,Abandona
+758,0,20,7.5,No,Bueno,Bueno,No,Medio,No Abandona
+759,1,22,7.9,No,Bueno,Bueno,Si,Bueno,No Abandona
+760,0,22,1.2,No,Medio,Regular,No,Ninguno,No Abandona
+761,0,21,6.8,No,Medio,Regular,No,Bueno,Abandona
+762,0,22,0.6,Si,Medio,Bueno,No,Medio,No Abandona
+763,1,23,9.7,No,Ninguno,Regular,Si,Bueno,No Abandona
+764,0,22,9.8,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+765,1,21,7.4,No,Ninguno,Bueno,No,Bueno,No Abandona
+766,1,21,3.8,Si,Ninguno,Bueno,No,Medio,Abandona
+767,1,20,5.6,No,Ninguno,Bueno,Si,Bueno,No Abandona
+768,1,23,5.9,Si,Ninguno,Bueno,No,Bueno,No Abandona
+769,0,19,8.0,Si,Medio,Regular,No,Medio,Abandona
+770,1,23,2.5,Si,Ninguno,Bueno,Si,Medio,No Abandona
+771,1,22,7.3,Si,Ninguno,Bueno,Si,Bueno,Abandona
+772,0,22,0.7,Si,Medio,Bueno,Si,Bueno,Abandona
+773,0,23,9.2,No,Ninguno,Regular,No,Medio,Abandona
+774,1,23,0.7,No,Ninguno,Regular,Si,Bueno,No Abandona
+775,1,20,7.4,No,Medio,Regular,Si,Ninguno,No Abandona
+776,0,21,6.1,Si,Ninguno,Regular,No,Medio,No Abandona
+777,0,20,3.4,Si,Ninguno,Bueno,Si,Medio,No Abandona
+778,1,23,7.0,No,Ninguno,Bueno,No,Ninguno,Abandona
+779,0,21,4.2,No,Ninguno,Regular,Si,Bueno,No Abandona
+780,0,19,0.5,Si,Bueno,Regular,No,Bueno,Abandona
+781,1,23,9.2,No,Medio,Regular,No,Bueno,Abandona
+782,0,21,4.4,Si,Medio,Bueno,No,Bueno,No Abandona
+783,0,24,9.5,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+784,0,20,1.3,Si,Medio,Regular,Si,Bueno,No Abandona
+785,1,21,8.8,No,Ninguno,Regular,No,Ninguno,Abandona
+786,0,20,2.6,Si,Ninguno,Regular,Si,Medio,No Abandona
+787,0,22,0.1,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+788,1,23,8.1,No,Ninguno,Regular,No,Ninguno,No Abandona
+789,0,22,3.5,No,Ninguno,Regular,Si,Ninguno,Abandona
+790,0,19,3.4,Si,Bueno,Regular,No,Ninguno,No Abandona
+791,1,19,0.5,Si,Medio,Regular,Si,Bueno,No Abandona
+792,0,21,4.7,Si,Medio,Bueno,No,Bueno,No Abandona
+793,0,21,5.5,No,Medio,Bueno,No,Bueno,No Abandona
+794,0,23,2.0,No,Ninguno,Bueno,No,Ninguno,Abandona
+795,0,21,8.4,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+796,0,19,3.8,Si,Medio,Bueno,Si,Medio,Abandona
+797,1,21,7.3,No,Medio,Regular,No,Medio,Abandona
+798,1,20,6.4,Si,Medio,Regular,No,Ninguno,No Abandona
+799,1,20,5.2,No,Bueno,Regular,No,Bueno,No Abandona
+800,0,23,9.9,Si,Bueno,Regular,Si,Medio,No Abandona
+801,0,20,6.6,Si,Ninguno,Regular,No,Ninguno,No Abandona
+802,1,19,8.4,Si,Bueno,Bueno,Si,Medio,Abandona
+803,0,22,8.6,No,Ninguno,Bueno,Si,Bueno,No Abandona
+804,0,21,4.8,No,Ninguno,Bueno,Si,Medio,Abandona
+805,1,23,5.2,Si,Bueno,Bueno,No,Bueno,No Abandona
+806,0,21,6.2,Si,Ninguno,Regular,No,Medio,No Abandona
+807,0,21,7.6,Si,Medio,Regular,No,Bueno,No Abandona
+808,0,21,3.8,Si,Bueno,Regular,Si,Medio,Abandona
+809,0,22,9.5,Si,Medio,Bueno,No,Ninguno,No Abandona
+810,0,21,3.5,No,Medio,Regular,No,Bueno,No Abandona
+811,1,23,7.6,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+812,1,21,0.3,Si,Medio,Regular,No,Medio,No Abandona
+813,0,19,0.4,Si,Bueno,Regular,Si,Bueno,No Abandona
+814,1,23,9.3,Si,Ninguno,Bueno,No,Ninguno,Abandona
+815,1,21,1.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+816,1,22,1.7,Si,Bueno,Regular,No,Ninguno,No Abandona
+817,1,22,6.1,No,Ninguno,Bueno,No,Medio,Abandona
+818,0,22,9.6,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+819,0,21,9.2,No,Bueno,Regular,No,Ninguno,No Abandona
+820,0,21,5.1,Si,Medio,Bueno,No,Ninguno,No Abandona
+821,1,23,6.4,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+822,1,20,5.1,No,Bueno,Regular,No,Medio,Abandona
+823,0,21,7.6,No,Bueno,Regular,No,Bueno,Abandona
+824,1,25,0.3,No,Medio,Bueno,Si,Ninguno,No Abandona
+825,0,23,0.1,No,Bueno,Regular,No,Ninguno,No Abandona
+826,0,23,1.3,No,Bueno,Regular,No,Medio,No Abandona
+827,1,22,7.1,No,Ninguno,Bueno,No,Medio,No Abandona
+828,0,21,3.6,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+829,0,22,9.6,No,Ninguno,Bueno,No,Medio,No Abandona
+830,0,22,7.4,Si,Bueno,Regular,No,Ninguno,No Abandona
+831,0,24,2.0,Si,Bueno,Regular,Si,Medio,No Abandona
+832,1,23,5.4,No,Medio,Regular,Si,Ninguno,No Abandona
+833,1,21,0.4,No,Bueno,Bueno,Si,Medio,No Abandona
+834,0,22,5.8,Si,Bueno,Bueno,No,Bueno,No Abandona
+835,1,23,7.2,No,Medio,Regular,Si,Bueno,No Abandona
+836,0,21,4.6,Si,Medio,Regular,No,Bueno,Abandona
+837,0,23,1.7,Si,Medio,Regular,Si,Medio,No Abandona
+838,0,20,4.9,No,Medio,Bueno,Si,Ninguno,Abandona
+839,1,21,2.0,No,Ninguno,Regular,Si,Bueno,No Abandona
+840,1,23,8.5,No,Medio,Regular,Si,Bueno,No Abandona
+841,1,22,1.9,No,Bueno,Regular,No,Bueno,No Abandona
+842,1,21,1.8,Si,Medio,Regular,Si,Medio,Abandona
+843,0,22,2.9,Si,Bueno,Bueno,Si,Medio,No Abandona
+844,1,20,7.2,Si,Medio,Bueno,Si,Medio,No Abandona
+845,1,20,8.0,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+846,0,23,5.9,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+847,0,23,4.3,No,Medio,Bueno,Si,Bueno,No Abandona
+848,0,22,0.9,No,Medio,Regular,Si,Medio,No Abandona
+849,1,21,8.1,No,Medio,Bueno,Si,Ninguno,No Abandona
+850,1,21,4.2,Si,Ninguno,Bueno,No,Bueno,Abandona
+851,0,22,0.7,Si,Bueno,Bueno,No,Medio,No Abandona
+852,1,23,7.9,No,Bueno,Regular,Si,Ninguno,Abandona
+853,0,19,6.0,No,Ninguno,Bueno,Si,Medio,No Abandona
+854,1,24,1.7,No,Bueno,Regular,Si,Bueno,No Abandona
+855,0,21,6.7,No,Ninguno,Regular,No,Medio,No Abandona
+856,0,23,4.5,Si,Ninguno,Regular,Si,Medio,No Abandona
+857,1,22,1.9,Si,Medio,Regular,Si,Ninguno,No Abandona
+858,0,23,8.9,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+859,0,19,1.4,Si,Bueno,Regular,No,Ninguno,Abandona
+860,1,19,8.1,No,Bueno,Regular,Si,Bueno,No Abandona
+861,1,21,0.2,No,Ninguno,Bueno,No,Ninguno,No Abandona
+862,0,22,4.9,Si,Bueno,Regular,No,Ninguno,Abandona
+863,1,22,3.0,Si,Medio,Bueno,Si,Ninguno,Abandona
+864,0,21,4.0,No,Bueno,Regular,No,Bueno,Abandona
+865,0,22,0.4,Si,Medio,Bueno,Si,Bueno,Abandona
+866,0,23,8.5,No,Ninguno,Regular,Si,Ninguno,No Abandona
+867,0,22,4.3,Si,Bueno,Regular,Si,Ninguno,No Abandona
+868,0,20,1.9,No,Medio,Bueno,No,Medio,No Abandona
+869,1,20,4.2,Si,Ninguno,Bueno,No,Bueno,No Abandona
+870,0,20,7.8,Si,Medio,Regular,No,Ninguno,No Abandona
+871,1,22,6.1,No,Medio,Regular,No,Medio,No Abandona
+872,0,21,5.1,Si,Bueno,Bueno,Si,Medio,Abandona
+873,1,21,1.5,Si,Ninguno,Bueno,Si,Medio,No Abandona
+874,0,22,8.0,Si,Medio,Bueno,Si,Ninguno,No Abandona
+875,0,22,8.1,No,Medio,Regular,Si,Bueno,Abandona
+876,0,22,3.4,No,Medio,Bueno,No,Ninguno,Abandona
+877,0,21,3.5,Si,Ninguno,Bueno,Si,Ninguno,Abandona
+878,1,22,5.1,No,Ninguno,Bueno,No,Bueno,No Abandona
+879,1,20,5.4,No,Bueno,Bueno,No,Ninguno,Abandona
+880,1,22,6.8,No,Medio,Regular,Si,Medio,Abandona
+881,1,21,3.3,No,Bueno,Bueno,Si,Ninguno,No Abandona
+882,0,20,0.6,Si,Medio,Regular,No,Bueno,No Abandona
+883,0,22,6.1,No,Ninguno,Regular,Si,Ninguno,No Abandona
+884,0,19,4.9,Si,Bueno,Bueno,No,Bueno,No Abandona
+885,0,22,3.0,Si,Medio,Regular,Si,Ninguno,Abandona
+886,1,20,4.8,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+887,0,19,4.1,Si,Ninguno,Bueno,No,Medio,No Abandona
+888,0,20,2.3,Si,Medio,Regular,Si,Medio,No Abandona
+889,0,21,1.5,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+890,0,22,2.7,No,Medio,Bueno,No,Ninguno,Abandona
+891,1,22,6.1,Si,Medio,Regular,Si,Medio,No Abandona
+892,1,21,3.3,No,Ninguno,Regular,No,Ninguno,Abandona
+893,1,22,8.6,Si,Ninguno,Bueno,No,Bueno,Abandona
+894,1,21,5.2,Si,Ninguno,Regular,Si,Bueno,No Abandona
+895,0,20,0.7,No,Ninguno,Bueno,Si,Medio,Abandona
+896,0,21,2.4,Si,Medio,Bueno,Si,Bueno,No Abandona
+897,0,21,6.8,Si,Medio,Regular,Si,Ninguno,No Abandona
+898,0,21,4.0,Si,Medio,Bueno,Si,Bueno,No Abandona
+899,0,22,3.3,No,Bueno,Regular,No,Ninguno,Abandona
+900,0,21,8.5,No,Medio,Regular,Si,Bueno,No Abandona
+901,1,22,0.6,No,Medio,Regular,Si,Ninguno,No Abandona
+902,0,22,4.6,No,Medio,Bueno,No,Bueno,No Abandona
+903,1,20,8.0,No,Bueno,Bueno,Si,Ninguno,Abandona
+904,1,21,2.9,No,Medio,Bueno,No,Medio,No Abandona
+905,0,22,5.1,No,Bueno,Regular,Si,Ninguno,No Abandona
+906,0,21,7.7,Si,Bueno,Regular,Si,Ninguno,No Abandona
+907,1,22,9.4,No,Ninguno,Regular,No,Bueno,No Abandona
+908,0,22,6.5,No,Medio,Bueno,Si,Bueno,Abandona
+909,1,22,4.0,No,Bueno,Regular,Si,Medio,No Abandona
+910,1,21,10.0,Si,Medio,Bueno,No,Medio,Abandona
+911,1,21,2.3,Si,Ninguno,Regular,No,Medio,No Abandona
+912,0,21,8.3,No,Medio,Regular,Si,Ninguno,No Abandona
+913,0,21,2.4,No,Ninguno,Regular,Si,Ninguno,Abandona
+914,1,22,9.5,No,Ninguno,Regular,Si,Medio,Abandona
+915,0,22,0.4,No,Ninguno,Bueno,No,Medio,No Abandona
+916,0,21,4.0,No,Medio,Regular,No,Bueno,No Abandona
+917,0,21,1.0,No,Ninguno,Regular,Si,Medio,Abandona
+918,0,21,1.3,No,Medio,Bueno,Si,Ninguno,No Abandona
+919,0,20,6.3,No,Bueno,Regular,Si,Ninguno,No Abandona
+920,0,24,9.5,Si,Bueno,Regular,Si,Ninguno,No Abandona
+921,1,21,1.2,Si,Bueno,Bueno,Si,Ninguno,No Abandona
+922,0,20,1.1,Si,Ninguno,Regular,Si,Bueno,No Abandona
+923,1,20,2.5,Si,Ninguno,Bueno,Si,Bueno,Abandona
+924,1,20,6.3,No,Medio,Bueno,Si,Bueno,No Abandona
+925,1,24,7.9,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+926,0,23,4.3,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+927,0,21,3.0,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+928,1,22,4.1,Si,Bueno,Regular,No,Medio,No Abandona
+929,0,20,7.4,Si,Ninguno,Bueno,No,Medio,No Abandona
+930,0,22,6.4,Si,Medio,Bueno,Si,Bueno,Abandona
+931,1,20,8.7,No,Medio,Bueno,No,Medio,No Abandona
+932,0,22,7.9,No,Medio,Regular,No,Bueno,Abandona
+933,0,19,3.6,Si,Bueno,Bueno,Si,Bueno,No Abandona
+934,0,22,0.6,Si,Medio,Bueno,Si,Bueno,Abandona
+935,1,23,0.1,Si,Bueno,Regular,No,Ninguno,No Abandona
+936,1,22,7.1,No,Medio,Regular,No,Medio,No Abandona
+937,0,18,9.8,Si,Bueno,Bueno,No,Ninguno,No Abandona
+938,0,21,8.2,No,Medio,Bueno,No,Ninguno,No Abandona
+939,1,20,6.2,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+940,0,19,3.9,Si,Ninguno,Bueno,No,Medio,Abandona
+941,0,21,1.0,No,Bueno,Regular,No,Ninguno,No Abandona
+942,1,22,2.9,Si,Bueno,Regular,No,Medio,Abandona
+943,0,21,2.0,Si,Medio,Bueno,No,Bueno,No Abandona
+944,0,23,8.6,No,Medio,Regular,Si,Bueno,No Abandona
+945,1,21,8.6,No,Bueno,Bueno,Si,Ninguno,No Abandona
+946,1,23,6.8,No,Bueno,Bueno,No,Bueno,No Abandona
+947,0,22,1.7,No,Medio,Bueno,No,Bueno,No Abandona
+948,0,23,2.7,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+949,1,24,3.9,No,Medio,Regular,Si,Bueno,Abandona
+950,0,23,8.7,Si,Bueno,Regular,Si,Medio,No Abandona
+951,0,23,6.8,Si,Ninguno,Bueno,Si,Ninguno,No Abandona
+952,0,25,6.3,No,Medio,Regular,Si,Ninguno,No Abandona
+953,0,22,7.1,No,Medio,Regular,No,Ninguno,No Abandona
+954,1,21,9.3,No,Bueno,Regular,No,Ninguno,No Abandona
+955,0,22,1.9,Si,Medio,Regular,No,Ninguno,No Abandona
+956,0,24,7.9,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+957,0,20,6.5,Si,Ninguno,Regular,No,Medio,Abandona
+958,0,20,5.7,No,Medio,Bueno,No,Ninguno,No Abandona
+959,0,23,7.8,Si,Bueno,Bueno,No,Bueno,No Abandona
+960,1,21,9.4,Si,Bueno,Regular,No,Bueno,No Abandona
+961,1,22,4.1,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+962,1,21,3.8,Si,Ninguno,Regular,Si,Ninguno,No Abandona
+963,1,20,9.7,No,Medio,Bueno,Si,Medio,No Abandona
+964,0,20,4.1,Si,Bueno,Bueno,No,Ninguno,No Abandona
+965,1,22,3.8,Si,Medio,Bueno,No,Bueno,No Abandona
+966,0,23,2.4,Si,Ninguno,Bueno,Si,Bueno,No Abandona
+967,1,22,1.1,Si,Ninguno,Bueno,Si,Medio,No Abandona
+968,1,22,0.7,No,Medio,Bueno,Si,Ninguno,No Abandona
+969,0,21,8.6,Si,Bueno,Bueno,Si,Bueno,No Abandona
+970,0,21,7.6,Si,Medio,Regular,No,Ninguno,No Abandona
+971,1,22,8.2,No,Medio,Bueno,Si,Medio,Abandona
+972,0,21,4.7,Si,Medio,Regular,Si,Ninguno,No Abandona
+973,1,24,9.5,No,Medio,Bueno,Si,Bueno,No Abandona
+974,0,21,3.3,No,Bueno,Bueno,Si,Medio,No Abandona
+975,0,21,9.7,No,Bueno,Bueno,Si,Ninguno,Abandona
+976,0,20,5.5,Si,Ninguno,Bueno,No,Bueno,No Abandona
+977,1,23,1.4,No,Ninguno,Bueno,Si,Ninguno,No Abandona
+978,1,21,6.5,No,Bueno,Regular,No,Bueno,Abandona
+979,0,22,2.8,No,Medio,Bueno,No,Ninguno,No Abandona
+980,0,20,0.2,Si,Ninguno,Regular,No,Ninguno,Abandona
+981,0,21,2.1,Si,Bueno,Regular,Si,Bueno,Abandona
+982,1,23,7.4,Si,Bueno,Bueno,No,Ninguno,No Abandona
+983,0,20,0.8,No,Medio,Regular,No,Bueno,Abandona
+984,0,21,7.4,Si,Medio,Regular,No,Medio,No Abandona
+985,1,20,3.1,No,Bueno,Regular,No,Medio,No Abandona
+986,0,22,8.8,No,Bueno,Bueno,No,Bueno,No Abandona
+987,1,21,4.0,Si,Ninguno,Bueno,No,Ninguno,No Abandona
+988,1,21,5.7,Si,Bueno,Regular,Si,Bueno,No Abandona
+989,0,21,8.7,Si,Medio,Regular,No,Bueno,No Abandona
+990,1,21,3.5,No,Ninguno,Bueno,No,Bueno,No Abandona
+991,1,23,6.4,Si,Medio,Regular,No,Bueno,Abandona
+992,0,22,3.0,No,Bueno,Regular,No,Ninguno,Abandona
+993,1,22,1.9,Si,Medio,Regular,Si,Medio,No Abandona
+994,0,20,4.6,Si,Medio,Regular,Si,Ninguno,No Abandona
+995,0,21,6.3,Si,Medio,Bueno,No,Ninguno,No Abandona
+996,0,21,8.4,Si,Medio,Regular,Si,Bueno,No Abandona
+997,0,23,7.4,Si,Bueno,Bueno,No,Bueno,No Abandona
+998,0,21,8.9,No,Medio,Bueno,No,Ninguno,No Abandona
+999,0,21,5.4,No,Medio,Bueno,No,Ninguno,No Abandona
+1000,0,20,7.0,No,Ninguno,Regular,Si,Ninguno,No Abandona

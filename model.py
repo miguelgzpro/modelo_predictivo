@@ -40,7 +40,7 @@ def entrenar_modelo(datos):
     # Evaluar el modelo (opcional)
     print(f'Precisión en el conjunto de prueba: {modelo.score(X_test, y_test):.2f}')
 
-    # Añadir predicciones y probabilidades al DataFrame original
+    # Añadir confianza y probabilidades al DataFrame original
     datos['Prediccion'] = modelo.predict_proba(X)[:, 1]
     datos['ProbabilidadPeligro'] = modelo.predict_proba(X)[:, 1]
 

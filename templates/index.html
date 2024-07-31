@@ -24,6 +24,10 @@
         .retenido {
             background-color: lightblue;
         }
+        .confianza {
+            margin: 20px 0;
+            font-size: 18px;
+        }
         .button {
             background-color: #D3D3D3; /* Light gray color */
             border: none;
@@ -40,6 +44,7 @@
     </style>
 </head>
 <body>
+    <p class="confianza">Confianza del Modelo: {{ '%.2f' % confianza_modelo }}</p>
     <h1>Lista de Estudiantes</h1>
     <a href="{{ url_for('riesgo') }}" class="button">Ver estudiantes en riesgo</a>
     <table>
@@ -49,9 +54,9 @@
                 <th>Sexo</th>
                 <th>Edad</th>
                 <th>Promedio</th>
-                <th>Retención</th>
-                <th>Predicción</th>
-                <th>Acción</th>
+                <th>Retención generada por el modelo</th>
+                <th>Confianza de prediccion</th>
+                <th>Todos los valores</th>
             </tr>
         </thead>
         <tbody>
@@ -61,7 +66,7 @@
                     <td>{{ estudiante.Sexo }}</td>
                     <td>{{ estudiante.Edad }}</td>
                     <td>{{ estudiante.Promedio }}</td>
-                    <td class="{% if estudiante.Retencion == 'No está en riesgo' %}no-riesgo{% elif estudiante.Retencion == 'En Peligro' %}en-peligro{% else %}retenido{% endif %}">{{ estudiante.Retencion }}</td>
+                    <td class="{% if estudiante.Retencion == 'No Abandona' %}retenido{% elif estudiante.Retencion == 'Abandona' %}en-peligro{% else %}no-riesgo{% endif %}">{{ estudiante.Retencion }}</td>
                     <td>{{ estudiante.Prediccion }}</td>
                     <td><a href="{{ url_for('detalle', id=estudiante.ID) }}">Ver detalles</a></td>
                 </tr>

@@ -38,7 +38,10 @@ def index():
     estudiantes['NivelSocioeconomico'] = estudiantes['NivelSocioeconomico'].map(socioeconomico_map)
     estudiantes['Retencion'] = estudiantes['Retencion'].map(retencion_map)
 
-    return render_template('index.html', estudiantes=estudiantes.to_dict(orient='records'))
+    # Calcular la confianza del modelo
+    confianza_modelo = datos['ProbabilidadPeligro'].mean()
+
+    return render_template('index.html', estudiantes=estudiantes.to_dict(orient='records'), confianza_modelo=confianza_modelo)
 
 @app.route('/detalle/<int:id>')
 def detalle(id):

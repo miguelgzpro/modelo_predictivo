@@ -15,8 +15,14 @@
             padding: 8px;
             text-align: left;
         }
+        .no-riesgo {
+            background-color: lightgreen;
+        }
         .en-peligro {
             background-color: lightcoral;
+        }
+        .retenido {
+            background-color: lightblue;
         }
         .button {
             background-color: #D3D3D3; /* Light gray color */
@@ -55,7 +61,7 @@
                     <td>{{ estudiante.Sexo }}</td>
                     <td>{{ estudiante.Edad }}</td>
                     <td>{{ estudiante.Promedio }}</td>
-                    <td class="en-peligro">{{ estudiante.Retencion }}</td>
+                    <td class="{% if estudiante.Retencion == 'No Abandona' %}retenido{% elif estudiante.Retencion == 'Abandona' %}en-peligro{% else %}no-riesgo{% endif %}">{{ estudiante.Retencion }}</td>
                     <td>{{ estudiante.Prediccion }}</td>
                     <td><a href="{{ url_for('detalle', id=estudiante.ID) }}">Ver detalles</a></td>
                 </tr>
